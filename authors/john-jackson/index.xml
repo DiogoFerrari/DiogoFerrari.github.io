@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>John Jackson on Diogo Ferrari</title>
-    <link>https://DiogoFerrari.github.io/authors/john-jackson/</link>
+    <link>www.diogoferrari.com/authors/john-jackson/</link>
     <description>Recent content in John Jackson on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jul 2019 03:08:17 +0000</lastBuildDate>
     
-	    <atom:link href="https://DiogoFerrari.github.io/authors/john-jackson/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="www.diogoferrari.com/authors/john-jackson/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cluster Estimated Standard Errors in R (ceser)</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2019-ceser/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2019-ceser/</guid>
       <description></description>
     </item>
     

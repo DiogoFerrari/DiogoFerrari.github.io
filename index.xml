@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diogo Ferrari</title>
-    <link>https://DiogoFerrari.github.io/</link>
+    <link>www.diogoferrari.com/</link>
     <description>Recent content on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jul 2019 23:27:44 -0300</lastBuildDate>
     
-	    <atom:link href="https://DiogoFerrari.github.io/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="www.diogoferrari.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Redistributive Attitudes and the Politics of Integration</title>
-      <link>https://DiogoFerrari.github.io/research/decentralization/</link>
+      <link>www.diogoferrari.com/research/decentralization/</link>
       <pubDate>Thu, 11 Jul 2019 23:27:44 -0300</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/research/decentralization/</guid>
+      <guid>www.diogoferrari.com/research/decentralization/</guid>
       <description>&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/centralization.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt; The decision of the UK to leave the EU has demonstrated the relevance of public opinion about integration, as well as the consequences of that decision. Classical theories about public preferences for allocation of political authority in multilevel polities emphasize the role of economic conditions, identity, and nationalist/regionalist values. In the EU, immigration has played a big role on public attitudes. In this project, I evaluate how attitudes about decentralization of political authority are affected by informational shortcuts and perceptions about the economy, inequality, and demand of different groups for welfare policies. In a survey experiment conducted in Brazil, one of the largest federations in the world, I found that people, particularly from the middle class, tend to believe that demand for redistribution actually leads to an increase in welfare state efforts. People act as if the classical Meltzer and Richard mechanism worked. That believe increases the demand for decentralization among the middle and affluent classes if they receive information that there is more demand for redistribution under centralization/integration of social policies. Moreover, perceptions about demand for redistribution affects support for welfare policies, and information about welfare demand alter those preferences. Depending on ideology, high income people who oppose redistribution tend to take more extreme positions when they are informed that demand for welfare is higher than they initially thought. Here is the list of current working papers:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;www.diogoferrari.com/img/centralization.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt; The decision of the UK to leave the EU has demonstrated the relevance of public opinion about integration, as well as the consequences of that decision. Classical theories about public preferences for allocation of political authority in multilevel polities emphasize the role of economic conditions, identity, and nationalist/regionalist values. In the EU, immigration has played a big role on public attitudes. In this project, I evaluate how attitudes about decentralization of political authority are affected by informational shortcuts and perceptions about the economy, inequality, and demand of different groups for welfare policies. In a survey experiment conducted in Brazil, one of the largest federations in the world, I found that people, particularly from the middle class, tend to believe that demand for redistribution actually leads to an increase in welfare state efforts. People act as if the classical Meltzer and Richard mechanism worked. That believe increases the demand for decentralization among the middle and affluent classes if they receive information that there is more demand for redistribution under centralization/integration of social policies. Moreover, perceptions about demand for redistribution affects support for welfare policies, and information about welfare demand alter those preferences. Depending on ideology, high income people who oppose redistribution tend to take more extreme positions when they are informed that demand for welfare is higher than they initially thought. Here is the list of current working papers:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Public Policy Preferences, Redistribution, and Support for Welfare Integration in Multilevel Polities: a Survey Experiment in Brazil&lt;/li&gt;
@@ -31,22 +31,22 @@
     
     <item>
       <title>Semi-parametric Bayesian Methods for Comparative Politics</title>
-      <link>https://DiogoFerrari.github.io/research/npb/</link>
+      <link>www.diogoferrari.com/research/npb/</link>
       <pubDate>Thu, 11 Jul 2019 23:18:51 -0300</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/research/npb/</guid>
+      <guid>www.diogoferrari.com/research/npb/</guid>
       <description>&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/simpsons-paradox.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt; My work in Political Methodology has focused on machine learning approaches, non- and semi-parametric Bayesian statistics, and computational methods for density estimation and latent variable modeling in political science.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;www.diogoferrari.com/img/simpsons-paradox.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt; My work in Political Methodology has focused on machine learning approaches, non- and semi-parametric Bayesian statistics, and computational methods for density estimation and latent variable modeling in political science.&lt;/p&gt;
 
 &lt;p&gt;In a large-n quantitative comparative analysis, researchers cannot possibly measure all factors that can affect the political behavior. Very likely, some factors that condition the effect of observed covariates are omitted or remain latent. It can lead to latent occurrence Simpson’s Paradox, which is a long-standing problem in statistical analysis in general and in the social sciences in particular. Simpson’s paradox refers to the possibility that an effect found when data are aggregated is completely different or even reversed when data are separated and analyzed in groups. If such groups are latent, classical empirical approaches (GLM, mixed models, etc.) are not able to detect and deal with them, meaning that Simpson’s Paradox goes unnoticed by the researcher. In comparative analysis there is another level of complication: different countries can have different latent factors conditioning different observed covariates.  My research in political methodology focuses on machine and statistical learning tools – particularly model-based clustering methods, stochastic processes, and semi-parametric and non-parametric Bayesian estimation – for investigating ways to deal with those problems.&lt;/p&gt;
 
 &lt;p&gt;I have worked with Dirichlet Regression models and proposed a hierarchical approach with semi-parametric Bayesian models (SPB) to deal with latent heterogeneity in the effect of treatment variables in experimental studies and/or latent heterogeneity in conditional associations in observational studies.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/densities-polarization.png&#34; align=&#34;right&#34; width=&#34;300&#34; style=&#34;padding-left: 10px;&#34;&gt;I have used SPB models to study the latent structure of public support for welfare policies in OECD countries. I show that there is a hidden polarization among the observed socioeconomic groups in some countries but not others. My research indicates that one side effect of welfare policies in highly unequal societies with fragmented party systems is the existence of latent polarization in welfare policy preferences among individuals with similar observed socioeconomic characteristics. Countries that does not display such a latent polarization (the USA, Japan, Australia, New Zealand) usually have comparative smaller welfare states. Here are some related work:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;www.diogoferrari.com/img/densities-polarization.png&#34; align=&#34;right&#34; width=&#34;300&#34; style=&#34;padding-left: 10px;&#34;&gt;I have used SPB models to study the latent structure of public support for welfare policies in OECD countries. I show that there is a hidden polarization among the observed socioeconomic groups in some countries but not others. My research indicates that one side effect of welfare policies in highly unequal societies with fragmented party systems is the existence of latent polarization in welfare policy preferences among individuals with similar observed socioeconomic characteristics. Countries that does not display such a latent polarization (the USA, Japan, Australia, New Zealand) usually have comparative smaller welfare states. Here are some related work:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;(2019) &lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/&#34; style=&#34;color:blue2&#34;&gt; Modeling Context-Dependent Latent Effect Heterogeneity&lt;/a&gt; &lt;i&gt;Political Analysis&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;(2019) &lt;a href=&#34;www.diogoferrari.com/publication/ferrari-2019-modeling/&#34; style=&#34;color:blue2&#34;&gt; Modeling Context-Dependent Latent Effect Heterogeneity&lt;/a&gt; &lt;i&gt;Political Analysis&lt;/i&gt;&lt;/li&gt;
 &lt;li&gt;Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -54,13 +54,13 @@
     
     <item>
       <title>Perceptions, Political Behavior, Polarization, and Welfare Attitudes</title>
-      <link>https://DiogoFerrari.github.io/research/perceptions/</link>
+      <link>www.diogoferrari.com/research/perceptions/</link>
       <pubDate>Thu, 11 Jul 2019 23:06:47 -0300</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/research/perceptions/</guid>
+      <guid>www.diogoferrari.com/research/perceptions/</guid>
       <description>&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/public-opinion-6-may68.jpg&#34; align=&#34;left&#34; style=&#34;padding-right: 10px;&#34; width=&#34;300&#34; &gt; In democratic, multicultural, and pluralistic modern societies in which a variety of political views coexist and are freely expressed in social media, news, and party discourses, people can feel that their world view and lifestyle are threatened by political opinions that are different from theirs. Hence, even political activism in favor of equality and inclusion can lead to reaction and counter-reactions that increase political tension among the public. Increasing tension can lead to radicalization, extremism in political attitudes, passionate partidarism, and entrenchment of groups in different poles of the political position and ideological spectrum. The emergence of neo-nationalism and “welfare chauvinism” are examples of such tendencies. Under what conditions opinions tend to polarize, and in which dimensions? This project studies the polarization of public opinion from three different perspectives: causes, consequences, and theory of measurement of polarization.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;www.diogoferrari.com/img/public-opinion-6-may68.jpg&#34; align=&#34;left&#34; style=&#34;padding-right: 10px;&#34; width=&#34;300&#34; &gt; In democratic, multicultural, and pluralistic modern societies in which a variety of political views coexist and are freely expressed in social media, news, and party discourses, people can feel that their world view and lifestyle are threatened by political opinions that are different from theirs. Hence, even political activism in favor of equality and inclusion can lead to reaction and counter-reactions that increase political tension among the public. Increasing tension can lead to radicalization, extremism in political attitudes, passionate partidarism, and entrenchment of groups in different poles of the political position and ideological spectrum. The emergence of neo-nationalism and “welfare chauvinism” are examples of such tendencies. Under what conditions opinions tend to polarize, and in which dimensions? This project studies the polarization of public opinion from three different perspectives: causes, consequences, and theory of measurement of polarization.&lt;/p&gt;
 
 &lt;p&gt;I have found in my research on the polarization of public opinion in OECD countries that the dimensions of polarization vary substantially between countries. In the USA, there is a steady increase in partisan polarization (identification as Democrat or Republican and feelings of anger against opposite groups) of the public and a decrease in polarization on policy preferences (e.g., support for welfare policies). In other countries, the opposite happens. I have found that protest and political activism is higher when both types of polarization coincide, and when parties do not vocalize the social divisions. In those cases, political activism emerges because public opinion polarization led some groups to feel threatened and they do not find resolution through established institutional means of representation.&lt;/p&gt;
 
@@ -76,235 +76,235 @@
     
     <item>
       <title>A Finite Mixture Model for Electoral Fraud Detection: Application to the Brazilian 2010 Presidential Election</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-finite/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2018-finite/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-finite/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2018-finite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adjusting for Poor-quality Survey Answers Using Nonresponses</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-adjusting/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2019-adjusting/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-adjusting/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2019-adjusting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cluster Estimated Standard Errors in R (ceser)</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2019-ceser/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2019-ceser/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developments in Positive Empirical Models of Election Frauds</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2018-developments/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2018-developments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2018-identification/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2018-identification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Election Fraud using Finite Mixture Models and Semi-parametric Density Estimation</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-investigating/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2019-investigating/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-investigating/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2019-investigating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Measuring Polarization of Public Opinion</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-measuring/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2019-measuring/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-measuring/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2019-measuring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preference for Redistribution by Police Area</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-preferences/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2018-preferences/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-preferences/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2018-preferences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Aggregate Income Distribution on Preferences for Centralization of Political Authority</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-effect/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2018-effect/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-effect/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2018-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effect of Perceptions about Aggregate Demand for Redistibution on Support for Welfare Policies: a Survey Experiment</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-perceptions/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2018-perceptions/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-perceptions/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2018-perceptions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling Context-dependent Latent Effect Heterogeneity</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2019-modeling/</link>
       <pubDate>Mon, 08 Jul 2019 21:43:28 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2019-modeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Semi-parametric Approch to Estimate Latent Heterogeneity with Generalized Linear Mixed Models</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-semi/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2017-semi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-semi/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2017-semi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Allocation of Authority and Preferences for Redistribution</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-allocation/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2017-allocation/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-allocation/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2017-allocation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution of Income, Redistributive Preferences, and Preferences for Political Institutions</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-distribution/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2017-distribution/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-distribution/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2017-distribution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Political Economy of intra-party solidarity and interregional redistribution</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-political/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2017-political/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-political/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2017-political/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Mediation Effect of Preferences for Redistribution on Preferences for Centralization of Political Authority by Policy Area</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-centralization/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2017-centralization/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-centralization/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2017-centralization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Logistic-Binomial Mixture Model for Fraud Detection in Elections</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2016-binomial/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2016-binomial/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-binomial/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2016-binomial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developments in Positive Empirical Models of Election Frauds</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2016-developments/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2016-developments/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-developments/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2016-developments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Political Economy of Intraparty Negotiation and Interregional Redistribution</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2016-intraparty/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2016-intraparty/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-intraparty/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2016-intraparty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Positive Empirical Models of Election Frauds</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2016-positive/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2016-positive/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-positive/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2016-positive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preferences Regarding the Vertical Distribution of Authority in Brazil: On Measurement and Determinants</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2015-preferences/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2015-preferences/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2015-preferences/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2015-preferences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Conditional Direct and Unconditional Indirect Effect of Income on Preferences for Centralization of Authority</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2016-centralization/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2016-centralization/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-centralization/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2016-centralization/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of Intraparty Negotiation on Interregional Redistribution</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2015-effect/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2015-effect/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2015-effect/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2015-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Territorial Division of Power: A Survey on Brazil</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2014-territorial/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2014-territorial/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2014-territorial/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2014-territorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fiscal Decentralization and Redistribution of Public Revenue: FPE in the Constitutional Convention of 1988</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2013-m-athesis/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2013-m-athesis/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2013-m-athesis/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2013-m-athesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Role of Congress on the negotiation of International Treaties Under the Coalition Presidentialism</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2011-tratadosen/</link>
+      <link>www.diogoferrari.com/publication/ferrari-2011-tratadosen/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2011-tratadosen/</guid>
+      <guid>www.diogoferrari.com/publication/ferrari-2011-tratadosen/</guid>
       <description></description>
     </item>
     
