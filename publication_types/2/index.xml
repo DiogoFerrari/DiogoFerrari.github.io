@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Diogo Ferrari</title>
+    <link>https://DiogoFerrari.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Diogo Ferrari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Jul 2019 03:08:17 +0000</lastBuildDate>
+    
+	    <atom:link href="https://DiogoFerrari.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cluster Estimated Standard Errors in R (ceser)</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/</link>
+      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Context-dependent Latent Effect Heterogeneity</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/</link>
+      <pubDate>Mon, 08 Jul 2019 21:43:28 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preferences Regarding the Vertical Distribution of Authority in Brazil: On Measurement and Determinants</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2015-preferences/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2015-preferences/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
