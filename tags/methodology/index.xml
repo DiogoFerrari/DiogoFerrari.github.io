@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Methodology on Diogo Ferrari</title>
-    <link>www.diogoferrari.com/tags/methodology/</link>
+    <link>diogoferrari.com/tags/methodology/</link>
     <description>Recent content in Methodology on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Jul 2019 23:18:51 -0300</lastBuildDate>
     
-	    <atom:link href="www.diogoferrari.com/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="diogoferrari.com/tags/methodology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Semi-parametric Bayesian Methods for Comparative Politics</title>
-      <link>www.diogoferrari.com/research/npb/</link>
+      <link>diogoferrari.com/research/npb/</link>
       <pubDate>Thu, 11 Jul 2019 23:18:51 -0300</pubDate>
       
-      <guid>www.diogoferrari.com/research/npb/</guid>
+      <guid>diogoferrari.com/research/npb/</guid>
       <description>&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;www.diogoferrari.com/img/simpsons-paradox.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt; My work in Political Methodology has focused on machine learning approaches, non- and semi-parametric Bayesian statistics, and computational methods for density estimation and latent variable modeling in political science.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;diogoferrari.com/img/simpsons-paradox.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt; My work in Political Methodology has focused on machine learning approaches, non- and semi-parametric Bayesian statistics, and computational methods for density estimation and latent variable modeling in political science.&lt;/p&gt;
 
 &lt;p&gt;In a large-n quantitative comparative analysis, researchers cannot possibly measure all factors that can affect the political behavior. Very likely, some factors that condition the effect of observed covariates are omitted or remain latent. It can lead to latent occurrence Simpson’s Paradox, which is a long-standing problem in statistical analysis in general and in the social sciences in particular. Simpson’s paradox refers to the possibility that an effect found when data are aggregated is completely different or even reversed when data are separated and analyzed in groups. If such groups are latent, classical empirical approaches (GLM, mixed models, etc.) are not able to detect and deal with them, meaning that Simpson’s Paradox goes unnoticed by the researcher. In comparative analysis there is another level of complication: different countries can have different latent factors conditioning different observed covariates.  My research in political methodology focuses on machine and statistical learning tools – particularly model-based clustering methods, stochastic processes, and semi-parametric and non-parametric Bayesian estimation – for investigating ways to deal with those problems.&lt;/p&gt;
 
 &lt;p&gt;I have worked with Dirichlet Regression models and proposed a hierarchical approach with semi-parametric Bayesian models (SPB) to deal with latent heterogeneity in the effect of treatment variables in experimental studies and/or latent heterogeneity in conditional associations in observational studies.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;www.diogoferrari.com/img/densities-polarization.png&#34; align=&#34;right&#34; width=&#34;300&#34; style=&#34;padding-left: 10px;&#34;&gt;I have used SPB models to study the latent structure of public support for welfare policies in OECD countries. I show that there is a hidden polarization among the observed socioeconomic groups in some countries but not others. My research indicates that one side effect of welfare policies in highly unequal societies with fragmented party systems is the existence of latent polarization in welfare policy preferences among individuals with similar observed socioeconomic characteristics. Countries that does not display such a latent polarization (the USA, Japan, Australia, New Zealand) usually have comparative smaller welfare states. Here are some related work:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;diogoferrari.com/img/densities-polarization.png&#34; align=&#34;right&#34; width=&#34;300&#34; style=&#34;padding-left: 10px;&#34;&gt;I have used SPB models to study the latent structure of public support for welfare policies in OECD countries. I show that there is a hidden polarization among the observed socioeconomic groups in some countries but not others. My research indicates that one side effect of welfare policies in highly unequal societies with fragmented party systems is the existence of latent polarization in welfare policy preferences among individuals with similar observed socioeconomic characteristics. Countries that does not display such a latent polarization (the USA, Japan, Australia, New Zealand) usually have comparative smaller welfare states. Here are some related work:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;(2019) &lt;a href=&#34;www.diogoferrari.com/publication/ferrari-2019-modeling/&#34; style=&#34;color:blue2&#34;&gt; Modeling Context-Dependent Latent Effect Heterogeneity&lt;/a&gt; &lt;i&gt;Political Analysis&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;(2019) &lt;a href=&#34;diogoferrari.com/publication/ferrari-2019-modeling/&#34; style=&#34;color:blue2&#34;&gt; Modeling Context-Dependent Latent Effect Heterogeneity&lt;/a&gt; &lt;i&gt;Political Analysis&lt;/i&gt;&lt;/li&gt;
 &lt;li&gt;Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
