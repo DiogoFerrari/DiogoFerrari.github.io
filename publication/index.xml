@@ -6,10 +6,28 @@
     <description>Recent content in Publications on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jul 2019 03:08:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2019 03:08:17 +0000</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Measuring Public Polarization and its Connection to the Determinants of Political Preferences</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-measuring/</link>
+      <pubDate>Sat, 20 Jul 2019 03:08:17 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-measuring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Aggregate Income Distribution on Preferences for Centralization of Political Authority</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-effect/</link>
+      <pubDate>Mon, 15 Jul 2019 03:08:17 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-effect/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Finite Mixture Model for Electoral Fraud Detection: Application to the Brazilian 2010 Presidential Election</title>
@@ -39,15 +57,6 @@
     </item>
     
     <item>
-      <title>Developments in Positive Empirical Models of Election Frauds</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
@@ -66,29 +75,11 @@
     </item>
     
     <item>
-      <title>On Measuring Polarization of Public Opinion</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-measuring/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-measuring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Preference for Redistribution by Police Area</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2018-preferences/</link>
       <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-preferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Effect of Aggregate Income Distribution on Preferences for Centralization of Political Authority</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-effect/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-effect/</guid>
       <description></description>
     </item>
     
@@ -107,6 +98,24 @@
       <pubDate>Mon, 08 Jul 2019 21:43:28 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments in Positive Empirical Models of Election Frauds: Dimensions and Decisions</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-dimensions/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-dimensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments in Positive Empirical Models of Election Frauds</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-developments/</link>
+      <pubDate>Mon, 10 Jul 2017 03:08:17 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-developments/</guid>
       <description></description>
     </item>
     

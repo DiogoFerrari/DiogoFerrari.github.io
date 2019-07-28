@@ -6,30 +6,115 @@
     <description>Recent content in Political Behavior on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2019 23:06:47 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 23:18:51 -0300</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/tags/political-behavior/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Perceptions, Political Behavior, Polarization, and Welfare Attitudes</title>
+      <title>Modeling Latent Effect Heterogeneity</title>
+      <link>https://DiogoFerrari.github.io/research/npb/</link>
+      <pubDate>Sun, 21 Jul 2019 23:18:51 -0300</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/research/npb/</guid>
+      <description>
+
+&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/simpsons-paradox3.png&#34; align=&#34;left&#34; width=&#34;400&#34; style=&#34;padding-right: 10px;&#34;&gt; The goal of this project is to provide a series of tools to investigate &lt;em&gt;latent heterogeneity&lt;/em&gt; in the effect of treatment variables or other observed covariates. Latent heterogeneity can occur because latent conditioning terms (i.e., interactive factors) are omitted in the empirical analysis.&lt;/p&gt;
+
+&lt;p&gt;In generalized linear models, omitting interactions can lead to latent occurrences &lt;a href=&#34;https://en.wikipedia.org/wiki/Simpson%27s_paradox&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Simpson&amp;rsquo;s Paradox&lt;/a&gt;, which is a long-standing problem in statistical analysis in general and in the social sciences in particular. Simpson&amp;rsquo;s paradox refers to the possibility that an effect found when data are aggregated is entirely different or even reversed when data are separated and analyzed in groups. If these groups are latent, classical empirical approaches (GLM, mixed models, etc.) are not able to detect and deal with them, meaning that Simpson&amp;rsquo;s Paradox goes unnoticed by the researcher. In practice, it means that a researcher can conclude that an effect is mildly positibe when, in fact, it is strongly positive for part of the population but negative for another part.&lt;/p&gt;
+
+&lt;p&gt;In comparative analysis, there is another level of complication: different countries can have different latent factors conditioning different observed covariates. This problem is not new, and many researchers have recognized its importance and its implications for both observational and experimental studies (see, for instance,
+&lt;a href=&#34;https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199566020.001.0001/oxfordhb-9780199566020-e-6&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Adam Przeworski, 2007&lt;/a&gt;). It is impossible for researchers to know &lt;em&gt;a priori&lt;/em&gt; if interactions are omitted. &lt;a href=&#34;https://yalebooks.yale.edu/book/9780300169409/field-experiments-and-their-critics&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Suzan Stokes (2014)&lt;/a&gt;, using different terms, argues that the omnipresent possibility of omitting relevant interactions in the analysis is a source of an attitude of &lt;em&gt;radical skepticism&lt;/em&gt; regarding the results of observational and experimental empirical investigation in the social sciences. She says:&lt;/p&gt;
+
+&lt;blockquote&gt;
+But from the standpoint of the radical skeptic, &lt;font color=&#34;red&#34;&gt;&lt;b&gt;no research design can dispose of all potential interactions&lt;/b&gt;&lt;/font&gt;. Setting plausibility aside, if units have high dimensionality and if some confounders are unmeasurable, some unobserved trait is always likely to interact with the treatment. Faced with an experimental study that uncovers a causal effect, &lt;font color=&#34;red&#34;&gt;&lt;b&gt;the radical skeptic should posit some unspecified subset of units whose response to treatment is at odds with the average response, potentially changing the theoretical implications of the study’s findings&lt;/b&gt;&lt;/font&gt;. If interactions can change the interpretation of experimental results, then the radical skeptic should be unnerved by their implication for experimental research. Because one can test only for interactions between treatments and observed factors, ungrounded skepticism implies that we will remain in the dark regarding the real findings of experimental studies.
+&lt;br&gt;
+&lt;br&gt;
+&lt;font color=&#34;red&#34;&gt;&lt;b&gt;Unobserved interactions [...] are omnipresent and inevitably limit the contribution of research to knowledge&lt;/b&gt;&lt;/font&gt; (Stokes, 2014, pg. 46)
+&lt;/blockquote&gt;
+
+&lt;p&gt;This project develops some machine learning approaches and semi-parametric Bayesian (SPB) methods for dealing with those issues and investigating if interactions were omitted.&lt;/p&gt;
+
+&lt;p&gt;A recent a recent paper, &amp;ldquo;&lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/&#34; style=&#34;color:blue2&#34;&gt;Modeling Context-Dependent Latent Effect Heterogeneity&lt;/a&gt;,&amp;rdquo; published a &lt;em&gt;Political Analysis&lt;/em&gt;, I propose a hierarchical Dirichlet mixture of generalized linear models to deal with that problem in comparative analysis. Using the model, researchers don’t need to specify all interactions explicitly. The model estimates marginal effects, even though interactions are missing in the model specification. Moreover, on the contrary to previous approaches, my method allows researchers to investigate whether the &amp;ldquo;context&amp;rdquo; such as schools, hospitals, neighborhoods, and country-specific institutional settings and its features are associated with the emergence of latent heterogeneity in the effect of observables. I illustrate the model’s contributions with applications in political science that investigate attitudes toward financial help to other countries and the effect of inequality on beliefs about meritocracy. The method is implemented in R, and it is available in the R package &lt;a href=&#34;https://DiogoFerrari.github.io/software/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Hierarchical Dirichlet Process Generalized Linear Models (hdpGLM)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/npb-densities.png&#34; align=&#34;right&#34; width=&#34;300&#34; style=&#34;padding-left: 10px;&#34;&gt;I have used SPB models to study the latent structure of public support for welfare policies in OECD countries. I show that there is a hidden polarization among the observed socioeconomic groups in some countries but not others. My research indicates that one side effect of welfare policies in highly unequal societies with fragmented party systems is the existence of latent polarization in welfare policy preferences among individuals with similar observed socioeconomic characteristics. Countries that do not display such a latent polarization (the USA, Japan, Australia, New Zealand) usually have comparative smaller welfare states.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here is some related papers:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;(2019) &lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/&#34; style=&#34;color:blue2&#34;&gt; Modeling Context-Dependent Latent Effect Heterogeneity&lt;/a&gt; &lt;i&gt;Political Analysis&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2019-measuring/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Measuring Public Polarization and its Connection to the Determinants of Political Preferences&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Przeworski, A., &lt;a href=&#34;https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199566020.001.0001/oxfordhb-9780199566020-e-6&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Is the science of comparative politics possible?&lt;/a&gt;
+, In C. B. Boix, &amp;amp; S. C. Stokes (Eds.), The Oxford Handbook of Comparative Politics (pp. ) (2007). : Oxford Handbooks Online.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Stokes, S. C., A defense of observational research, In D. L. Teele (Eds.),
+&lt;a href=&#34;https://yalebooks.yale.edu/book/9780300169409/field-experiments-and-their-critics&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Field experiments and their critics: Essays on the uses and abuses of experimentation in the social sciences&lt;/a&gt; (pp. 33–57) (2014). New Haven, CT: Yale University Press.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Perceptions, Political Behavior, Polarization, and Welfare Attitudes (with Rob Franzese)</title>
       <link>https://DiogoFerrari.github.io/research/perceptions/</link>
-      <pubDate>Thu, 11 Jul 2019 23:06:47 -0300</pubDate>
+      <pubDate>Sat, 20 Jul 2019 23:06:47 -0300</pubDate>
       
       <guid>https://DiogoFerrari.github.io/research/perceptions/</guid>
       <description>&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/public-opinion-6-may68.jpg&#34; align=&#34;left&#34; style=&#34;padding-right: 10px;&#34; width=&#34;300&#34; &gt; In democratic, multicultural, and pluralistic modern societies in which a variety of political views coexist and are freely expressed in social media, news, and party discourses, people can feel that their world view and lifestyle are threatened by political opinions that are different from theirs. Hence, even political activism in favor of equality and inclusion can lead to reaction and counter-reactions that increase political tension among the public. Increasing tension can lead to radicalization, extremism in political attitudes, passionate partidarism, and entrenchment of groups in different poles of the political position and ideological spectrum. The emergence of neo-nationalism and “welfare chauvinism” are examples of such tendencies. Under what conditions opinions tend to polarize, and in which dimensions? This project studies the polarization of public opinion from three different perspectives: causes, consequences, and theory of measurement of polarization.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/populism.jpg&#34; align=&#34;right&#34; width=&#34;400&#34; style=&#34;padding-left: 30px;&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;I have found in my research on the polarization of public opinion in OECD countries that the dimensions of polarization vary substantially between countries. In the USA, there is a steady increase in partisan polarization (identification as Democrat or Republican and feelings of anger against opposite groups) of the public and a decrease in polarization on policy preferences (e.g., support for welfare policies). In other countries, the opposite happens. I have found that protest and political activism is higher when both types of polarization coincide, and when parties do not vocalize the social divisions. In those cases, political activism emerges because public opinion polarization led some groups to feel threatened and they do not find resolution through established institutional means of representation.&lt;/p&gt;
+&lt;p&gt;In democratic, multicultural, and pluralistic modern societies in which a variety of political views coexist and are freely expressed in social media, news, and party discourses, people can feel that their world view and lifestyle are threatened by political opinions that are different from theirs. Increasing tension can lead to radicalization, extremism in political attitudes, passionate partisanship, and entrenchment of groups in different poles of the political and ideological spectrum. This project investigates those trends from two perspectives.&lt;/p&gt;
+
+&lt;p&gt;First, the project investigates how individuals&amp;rsquo; material conditions are connected to their perceptions about the socioeconomic environment, including the state of the economy, unemployment, and other social groups, and how those perceptions are connected, by its turn, to political preferences.&lt;/p&gt;
+
+&lt;p&gt;Second, political leaders can take advantage of tensions in voters&amp;rsquo; preferences to gain electoral support. We use unsupervised learning methods to investigate latent subpopulations that are more easily targeted by those politicians. Ultimately, we seek to understand why socioeconomic-position-dependent perceptions about the socioeconomic environment make some individuals but not others more susceptible to certain populist &amp;lsquo;otherizing&amp;rsquo; appeals.&lt;/p&gt;
 
 &lt;p&gt;Here is some current work in progress:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;On Measuring Polarization of Public Opinion&lt;/li&gt;
+&lt;li&gt;Perceptions and Polarization of Public Opinion&lt;/li&gt;
 &lt;li&gt;Latent Polarization in Welfare Attitudes in OECD countries.&lt;/li&gt;
-&lt;li&gt;Cross-class Coalition in Public Support for Welfare Policies in OECD countries&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information, Income Distribution, and Policy Preferences</title>
+      <link>https://DiogoFerrari.github.io/research/survey-br/</link>
+      <pubDate>Tue, 11 Jun 2019 23:27:44 -0300</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/research/survey-br/</guid>
+      <description>&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Under construction&lt;/p&gt;
+
+&lt;!--
+&lt;img src=&#34;https://DiogoFerrari.github.io/img/centralization.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt; 
+
+This project has two main goals. First, we study the effect of information about inequality and income distribution on perceptions and political attitudes. 
+
+I have conducted a nation-wide survey experiment in Brazil about that topic, and now I want to expand the research to OECD countries. In a survey experiment conducted in Brazil, I found that people tend to act as if the classical Meltzer and Richard mechanism worked in practice. That is, people, particularly from the middle class, tend to believe that demand for redistribution actually leads to an increase in welfare state efforts. So, information about distribution of income make people adjust their believe about demand for redistribution and, as a consequence, strengten they support (opposition) to redistributive policies and parties with redistributive programs. I am preparing a paper with those results for submission.
+
+
+The decision of the UK to leave the EU has demonstrated the relevance of public opinion about integration, as well as the consequences of that decision. Classical theories about public preferences for allocation of political authority in multilevel polities emphasize the role of economic conditions, identity, and nationalist/regionalist values. In the EU, immigration has played a big role on public attitudes. In this project, I evaluate how attitudes about decentralization of political authority are affected by informational shortcuts and perceptions about the economy, inequality, and demand of different groups for welfare policies. In a survey experiment conducted in Brazil, one of the largest federations in the world, I found that people, particularly from the middle class, tend to believe that demand for redistribution actually leads to an increase in welfare state efforts. People act as if the classical Meltzer and Richard mechanism worked. That believe increases the demand for decentralization among the middle and affluent classes if they receive information that there is more demand for redistribution under centralization/integration of social policies. Moreover, perceptions about demand for redistribution affects support for welfare policies, and information about welfare demand alter those preferences. Depending on ideology, high income people who oppose redistribution tend to take more extreme positions when they are informed that demand for welfare is higher than they initially thought. Here is the list of current working papers:
+
+
+
+- Public Policy Preferences, Redistribution, and Support for Welfare Integration in Multilevel Polities: a Survey Experiment in Brazil
+- Preference for Redistribution by Policy Area
+- Information about Inequality and Support for Redistribution
+
+--&gt;
 </description>
     </item>
     

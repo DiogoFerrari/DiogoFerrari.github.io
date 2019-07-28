@@ -6,80 +6,107 @@
     <description>Recent content in Tags on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jul 2019 23:27:44 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 23:18:51 -0300</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Decentralization</title>
-      <link>https://DiogoFerrari.github.io/tags/decentralization/</link>
-      <pubDate>Thu, 11 Jul 2019 23:27:44 -0300</pubDate>
+      <title>Bayesian Models</title>
+      <link>https://DiogoFerrari.github.io/tags/bayesian-models/</link>
+      <pubDate>Sun, 21 Jul 2019 23:18:51 -0300</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/tags/decentralization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EU Integration</title>
-      <link>https://DiogoFerrari.github.io/tags/eu-integration/</link>
-      <pubDate>Thu, 11 Jul 2019 23:27:44 -0300</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/tags/eu-integration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Methodology</title>
-      <link>https://DiogoFerrari.github.io/tags/methodology/</link>
-      <pubDate>Thu, 11 Jul 2019 23:18:51 -0300</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/tags/methodology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NPB</title>
-      <link>https://DiogoFerrari.github.io/tags/npb/</link>
-      <pubDate>Thu, 11 Jul 2019 23:18:51 -0300</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/tags/npb/</guid>
+      <guid>https://DiogoFerrari.github.io/tags/bayesian-models/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparative Politics</title>
       <link>https://DiogoFerrari.github.io/tags/comparative-politics/</link>
-      <pubDate>Thu, 11 Jul 2019 23:06:47 -0300</pubDate>
+      <pubDate>Sun, 21 Jul 2019 23:18:51 -0300</pubDate>
       
       <guid>https://DiogoFerrari.github.io/tags/comparative-politics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Perceptions</title>
-      <link>https://DiogoFerrari.github.io/tags/perceptions/</link>
-      <pubDate>Thu, 11 Jul 2019 23:06:47 -0300</pubDate>
+      <title>Dirichlet Regression</title>
+      <link>https://DiogoFerrari.github.io/tags/dirichlet-regression/</link>
+      <pubDate>Sun, 21 Jul 2019 23:18:51 -0300</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/tags/perceptions/</guid>
+      <guid>https://DiogoFerrari.github.io/tags/dirichlet-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://DiogoFerrari.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 21 Jul 2019 23:18:51 -0300</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Political Behavior</title>
       <link>https://DiogoFerrari.github.io/tags/political-behavior/</link>
-      <pubDate>Thu, 11 Jul 2019 23:06:47 -0300</pubDate>
+      <pubDate>Sun, 21 Jul 2019 23:18:51 -0300</pubDate>
       
       <guid>https://DiogoFerrari.github.io/tags/political-behavior/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Political Methodology</title>
+      <link>https://DiogoFerrari.github.io/tags/political-methodology/</link>
+      <pubDate>Sun, 21 Jul 2019 23:18:51 -0300</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/tags/political-methodology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-parametric Bayesian</title>
+      <link>https://DiogoFerrari.github.io/tags/semi-parametric-bayesian/</link>
+      <pubDate>Sun, 21 Jul 2019 23:18:51 -0300</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/tags/semi-parametric-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning</title>
+      <link>https://DiogoFerrari.github.io/tags/unsupervised-learning/</link>
+      <pubDate>Sun, 21 Jul 2019 23:18:51 -0300</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perceptions</title>
+      <link>https://DiogoFerrari.github.io/tags/perceptions/</link>
+      <pubDate>Sat, 20 Jul 2019 23:06:47 -0300</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/tags/perceptions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Political Economy</title>
       <link>https://DiogoFerrari.github.io/tags/political-economy/</link>
-      <pubDate>Thu, 11 Jul 2019 23:06:47 -0300</pubDate>
+      <pubDate>Sat, 20 Jul 2019 23:06:47 -0300</pubDate>
       
       <guid>https://DiogoFerrari.github.io/tags/political-economy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Election Forensics</title>
+      <link>https://DiogoFerrari.github.io/tags/election-forensics/</link>
+      <pubDate>Sat, 01 Jun 2019 23:18:51 -0300</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/tags/election-forensics/</guid>
       <description></description>
     </item>
     
