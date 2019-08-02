@@ -6,10 +6,19 @@
     <description>Recent content on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jul 2019 23:18:51 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 15:14:34 +0000</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Developments in Positive Empirical Models of Election Frauds</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</link>
+      <pubDate>Fri, 02 Aug 2019 15:14:34 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modeling Latent Effect Heterogeneity</title>
@@ -216,7 +225,7 @@ The decision of the UK to leave the EU has demonstrated the relevance of public 
       <guid>https://DiogoFerrari.github.io/research/eforensics/</guid>
       <description>&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/eforensicsnyt.png&#34; align=&#34;left&#34; width=&#34;200&#34; style=&#34;padding-right: 10px;&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/eforensics-distr.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt;
 Elections are one of the cornerstones of modern democracies. &lt;em&gt;Election forensics&lt;/em&gt; is a subarea of Political Science that uses statistical methods to investigate frauds in election.&lt;/p&gt;
 
 &lt;p&gt;Frauds are by their very nature concealed phenonema. The perpetrators don&amp;rsquo;t want to reveal their act and want to avoid leaving any indication of manipulaiton of the results. This NFS-funded project, with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/faculty/wmebane.html&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Walter Mebane&lt;/a&gt; (PA), proposes some unsupervised learning methods and a series of finite mixture models to estimate the probability of fraud in elections using election data.&lt;/p&gt;
@@ -233,6 +242,15 @@ Elections are one of the cornerstones of modern democracies. &lt;em&gt;Election 
 &lt;li&gt;&lt;p&gt;Diogo Ferrari (2016). &lt;a href=&#34;http://localhost:1313/publication/ferrari-2016-binomial/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;A Logistic-Binomial Mixture Model for Fraud Detection in Elections&lt;/a&gt;. &lt;em&gt;Polmeth XXXIII&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Essays on the Micro-Foundations of Welfare Attitudes and Polarization of Policy Preferences</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-essays/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-essays/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -371,7 +389,7 @@ Elections are one of the cornerstones of modern democracies. &lt;em&gt;Election 
     </item>
     
     <item>
-      <title>Fiscal Decentralization and Redistribution of Public Revenue: FPE in the Constitutional Convention of 1988</title>
+      <title>Fiscal Decentralization and Redistribution of Public Revenue: FPE in the Brazilian Constitutional Convention of 1988</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2013-m-athesis/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
