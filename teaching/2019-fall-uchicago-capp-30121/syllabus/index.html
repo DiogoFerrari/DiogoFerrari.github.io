@@ -1,0 +1,1251 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Diogo Ferrari">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Overview   This course is the first in a three-quarter sequence that teaches computational thinking and skills. The course will cover abstraction and decomposition, simple modeling, basic algorithms, and programming in Python. Applications from a wide variety of fields serve both as examples in lectures and as the basis for programming assignments. In recent offerings, students have written programs to simulate a model of housing segregation, determine the number of machines needed at a polling place, and analyze tweets from presidential debates.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-capp-30121/syllabus/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arial:400,400i|Arial:400,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.9f218b4970ba95bdfea3bc16d578007f.css">
+
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-144996008-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-capp-30121/syllabus/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@DiogoFerrari">
+  <meta property="twitter:creator" content="@DiogoFerrari">
+  
+  <meta property="og:site_name" content="Diogo Ferrari">
+  <meta property="og:url" content="https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-capp-30121/syllabus/">
+  <meta property="og:title" content="Syllabus | Diogo Ferrari">
+  <meta property="og:description" content="Overview   This course is the first in a three-quarter sequence that teaches computational thinking and skills. The course will cover abstraction and decomposition, simple modeling, basic algorithms, and programming in Python. Applications from a wide variety of fields serve both as examples in lectures and as the basis for programming assignments. In recent offerings, students have written programs to simulate a model of housing segregation, determine the number of machines needed at a polling place, and analyze tweets from presidential debates."><meta property="og:image" content="https://DiogoFerrari.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://DiogoFerrari.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2018-09-09T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2018-09-09T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>Syllabus | Diogo Ferrari</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Diogo Ferrari</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.dropbox.com/s/wuiex2qv7a7nn19/CV.pdf?dl=0" target="_blank" rel="noopener"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/#1"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/software"><span>Software</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/teaching/2019-fall-uchicago-capp-30121/">CAPP 30121 – Computer Science with Applications 1</a>
+
+  </div>
+  
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/teaching/2019-fall-uchicago-capp-30121/syllabus/">Syllabus</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/teaching/2019-fall-uchicago-capp-30121/acad-honesty/">Academic Honesty</a>
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li><a href="#headline-1">Overview</a>
+</li>
+<li><a href="#headline-2">Course Staff</a>
+<ul>
+<li><a href="#headline-3">Instructors</a>
+</li>
+<li><a href="#headline-4">Teaching Assistants</a>
+</li>
+</ul>
+</li>
+<li><a href="#headline-5">Office hours</a>
+</li>
+<li><a href="#headline-6">Course Structure</a>
+</li>
+<li><a href="#headline-7">Calendar/Readings</a>
+</li>
+<li><a href="#headline-8">Programming assignments</a>
+</li>
+<li><a href="#headline-9">Exams</a>
+</li>
+<li><a href="#headline-10">Labs</a>
+</li>
+<li><a href="#headline-11">Practice problems</a>
+</li>
+<li><a href="#headline-12">Grading</a>
+</li>
+<li><a href="#headline-13">Late submissions</a>
+</li>
+<li><a href="#headline-14">Books</a>
+</li>
+<li><a href="#headline-15">Policy on academic honesty</a>
+</li>
+<li><a href="#headline-16">Diversity statement</a>
+</li>
+<li><a href="#headline-17">Disability statement</a>
+</li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">Syllabus</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            
+<h3 id="headline-1">
+Overview
+</h3>
+<p>
+This course is the first in a three-quarter sequence that teaches computational thinking and skills. The course will cover abstraction and decomposition, simple modeling, basic algorithms, and programming in Python. Applications from a wide variety of fields serve both as examples in lectures and as the basis for programming assignments. In recent offerings, students have written programs to simulate a model of housing segregation, determine the number of machines needed at a polling place, and analyze tweets from presidential debates.
+</p>
+<h3 id="headline-2">
+Course Staff
+</h3>
+<h4 id="headline-3">
+Instructors
+</h4>
+<ul>
+<li>
+<p>
+Anne Rogers
+</p>
+</li>
+<li>
+<p>
+Diogo Ferrari (<a href="mailto:diogoferrari@uchicago.edu">email me</a>)
+</p>
+</li>
+<li>
+<p>
+Lamont Samuels
+</p>
+</li>
+</ul>
+<h4 id="headline-4">
+Teaching Assistants
+</h4>
+<ul>
+<li>
+<p>
+TBA
+</p>
+</li>
+</ul>
+<h3 id="headline-5">
+Office hours
+</h3>
+<ul>
+<li>
+<p>
+TBA
+</p>
+</li>
+</ul>
+<h3 id="headline-6">
+Course Structure
+</h3>
+<p>
+The class meets three times a week for lectures, and once a week for a lab session. Graded work includes programming assignments and exams. Additionally, we provide practice problems throughout the quarter.
+</p>
+<h3 id="headline-7">
+Calendar/Readings
+</h3>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th class="align-right">Lecture</th>
+<th>Topic</th>
+<th>Readings</th>
+<th>Due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>TBA</td>
+<td class="align-right">1</td>
+<td>Course Introduction</td>
+<td>R&amp;S: Computational Thinking, Computational Thinking by J.Wing, (Optional) How the Matching Algorithm Works &amp; (Optional) National Resident Match Program</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">2</td>
+<td>Introduction to Programming (practice)</td>
+<td>R&amp;S: Programming Basics</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">3</td>
+<td>Conditionals; basic lists; for loops (practice)</td>
+<td>R&amp;S: Control Flow</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">4</td>
+<td>Lists, strings (practice)</td>
+<td>R&amp;S: Lists, Tuples &amp; Strings</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">5</td>
+<td>Functions</td>
+<td>R&amp;S: Introduction to Functions</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">6</td>
+<td>More functions (practice)</td>
+<td>R&amp;S: Introduction to Functions</td>
+<td>PA 1</td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">7</td>
+<td>Page rank example</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">8</td>
+<td>Dictionaries</td>
+<td>R&amp;S: Dictionaries</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">9</td>
+<td>Files</td>
+<td>R&amp;S: Working with Files</td>
+<td>PA 2</td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">10</td>
+<td>Data Types</td>
+<td>R&amp;S: Implementing a data structure: stacks and queues</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">11</td>
+<td>Classes</td>
+<td>R&amp;S: Classes and Objects</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">12</td>
+<td>More Classes</td>
+<td></td>
+<td>PA 3</td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">13</td>
+<td>More Classes</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right"><strong>EXAM</strong></td>
+<td>EXAM</td>
+<td>EXAM</td>
+<td>EXAM</td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">14</td>
+<td>M/D/1 Queues</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">15</td>
+<td>Functional Programming</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">16</td>
+<td>More Functional Programming</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">17</td>
+<td>Numpy</td>
+<td>R&amp;S: Numpy</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">18</td>
+<td>More Numpy</td>
+<td></td>
+<td>PA 4</td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">19</td>
+<td>Pandas</td>
+<td>R&amp;S: Pandas</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">20</td>
+<td>Pandas</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">21</td>
+<td>Pandas</td>
+<td></td>
+<td>PA 5</td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">22</td>
+<td>Record Linkage</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">23</td>
+<td>Record Linkage</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">24</td>
+<td>Record Linkage</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">25</td>
+<td>TBA</td>
+<td></td>
+<td>PA 6</td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">26</td>
+<td>TBA</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">27</td>
+<td>TBA</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right">28</td>
+<td>Wrap-up</td>
+<td></td>
+<td>PA 7</td>
+</tr>
+<tr>
+<td></td>
+<td class="align-right"><strong>EXAM</strong></td>
+<td>EXAM</td>
+<td>EXAM</td>
+<td>EXAM</td>
+</tr>
+</tbody>
+</table>
+<h3 id="headline-8">
+Programming assignments
+</h3>
+<p>
+We will be assigning seven programming assignments. You will be allowed to work in pairs in some of these assignments. See the calendar for details.
+</p>
+<p>
+In general, programming assignments are released on Saturday/Sunday, and are due on the following Friday.
+</p>
+<p>
+The labs are used to provide additional support for these programming assignments.
+</p>
+<table>
+<thead>
+<tr>
+<th class="align-right">Week</th>
+<th>Due date</th>
+<th>Due</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="align-right">2</td>
+<td>TBA</td>
+<td>PA #1: Simulating SIR (solo)</td>
+</tr>
+<tr>
+<td class="align-right">3</td>
+<td></td>
+<td>PA #2: Schelling (pairs allowed)</td>
+</tr>
+<tr>
+<td class="align-right">4</td>
+<td></td>
+<td>PA #3: Twitter (pairs allowed)</td>
+</tr>
+<tr>
+<td class="align-right">6</td>
+<td></td>
+<td>PA #4: Polling places (pairs allowed)</td>
+</tr>
+<tr>
+<td class="align-right">7</td>
+<td></td>
+<td>PA #5: Linear Regression (solo)</td>
+</tr>
+<tr>
+<td class="align-right">9</td>
+<td></td>
+<td>PA #6: Traffic Stops (solo)</td>
+</tr>
+<tr>
+<td class="align-right">10</td>
+<td></td>
+<td>PA #7: Record linkage (pairs allowed)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="headline-9">
+Exams
+</h3>
+<ul>
+<li>
+<p>
+Place: TBA
+</p>
+</li>
+<li>
+<p>
+Date: TBA
+</p>
+</li>
+</ul>
+<h3 id="headline-10">
+Labs
+</h3>
+<p>
+The class will have weekly lab sections. The labs will provide an opportunity to get an overview of the week’s programming assignment and to work on either the week’s lab assignment or on your solution to the programming assignment.
+</p>
+<p>
+The lab assignments are not graded and do not have to be handed in, but we strongly encourage you to work through them, as they supplement what is covered in the lectures, and will often clarify certain concepts that are essential to be successful on the programming assignments.
+</p>
+<table>
+<thead>
+<tr>
+<th class="align-right">Week</th>
+<th>Day</th>
+<th>Type</th>
+<th>Topic</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="align-right">1</td>
+<td>TBA</td>
+<td><em>Lab</em> 1</td>
+<td>Linux</td>
+</tr>
+<tr>
+<td class="align-right">2</td>
+<td>TBA</td>
+<td><em>Lab</em> 2</td>
+<td>Lists and Loops</td>
+</tr>
+<tr>
+<td class="align-right">3</td>
+<td>TBA</td>
+<td><em>Lab</em> 3</td>
+<td>Functions</td>
+</tr>
+<tr>
+<td class="align-right">4</td>
+<td>TBA</td>
+<td><em>Lab</em> 4</td>
+<td>Dictionaries</td>
+</tr>
+<tr>
+<td class="align-right">6</td>
+<td>TBA</td>
+<td><em>Lab</em> 5</td>
+<td>Classes</td>
+</tr>
+<tr>
+<td class="align-right">7</td>
+<td>TBA</td>
+<td><em>Lab</em> 6</td>
+<td>Numpy</td>
+</tr>
+<tr>
+<td class="align-right">8</td>
+<td>TBA</td>
+<td><em>Lab</em> 7</td>
+<td>Pandas</td>
+</tr>
+<tr>
+<td class="align-right">9</td>
+<td>TBA</td>
+<td><em>Lab</em> 8</td>
+<td>Record Linkage</td>
+</tr>
+<tr>
+<td class="align-right">10</td>
+<td>TBA</td>
+<td><em>Lab</em> 9</td>
+<td>Wrap-up</td>
+</tr>
+</tbody>
+</table>
+<h3 id="headline-11">
+Practice problems
+</h3>
+<p>
+We will periodically make a set of short problems available to you to test your knowledge of the material we are covering in class. Some of these problems will be of the “be a computer” variety and will require you to evaluate a piece of code by hand. Others will require you to write code. We will be using a system named Kattis to help you test your solutions to the latter type of problems.
+</p>
+<p>
+You will not submit these problems and they will not be graded. They will, however, help test your knowledge of the material needed to do the programming assignments and will be good practice for exams.
+</p>
+<h3 id="headline-12">
+Grading
+</h3>
+<p>
+Your final grade will be based on the following:
+</p>
+<table>
+<tbody>
+<tr>
+<td>Programming assignments</td>
+<td>60%</td>
+</tr>
+<tr>
+<td>Exam 1</td>
+<td>20%</td>
+</tr>
+<tr>
+<td>Exam 2</td>
+<td>20%</td>
+</tr>
+</tbody>
+</table>
+<p>
+Grades are not curved in this class or, at least, not in the traditional sense. We use a standard set of grade boundaries:
+</p>
+<table>
+<tbody>
+<tr>
+<td>95-100:</td>
+<td>A</td>
+</tr>
+<tr>
+<td>90-95:</td>
+<td>A-</td>
+</tr>
+<tr>
+<td>85-90:</td>
+<td>B+</td>
+</tr>
+<tr>
+<td>80-85:</td>
+<td>B</td>
+</tr>
+<tr>
+<td>75-80:</td>
+<td>B-</td>
+</tr>
+<tr>
+<td>70-75:</td>
+<td>C+</td>
+</tr>
+<tr>
+<td>&lt;70:</td>
+<td>Dealt on a case-by-case basis</td>
+</tr>
+</tbody>
+</table>
+<p>
+We curve only to the extent we might lower the boundaries for one or more letter grades, depending on the distribution of the raw scores. We will not raise the boundaries in response to the distribution.
+</p>
+<p>
+So, for example, if you have a total score of 82 in the course, you are guaranteed to get, at least, a B (but may potentially get a higher grade if the boundary for a B+ is lowered).
+</p>
+<p>
+Students in the MS-CAPP program must take this course for a quality grade.
+</p>
+<p>
+Students in other programs may take the course pass/fail. A “pass” requires a 60 in the course and the average score of both exams must be at least 50 (i.e., if you get a 35 on the first exam, you will need to get at least a 65 on the second exam to pass, assuming your overall score on the class is at least 60)
+</p>
+<p>
+Instructions for how non-MS-CAPP students can request to take the class pass/fail will be sent closer to the end of the quarter. Please do not send your instructor such requests until we have posted instructions on how to do so.
+</p>
+<p>
+Requests to withdraw must be sent to the instructor.
+</p>
+<h3 id="headline-13">
+Late submissions
+</h3>
+<p>
+All students may use up to two 24-hour extensions for the programming assignments during the quarter. These extensions are all-or-nothing: you cannot use a portion of an extension and have the rest “carry over” to another extension. If extraordinary circumstances (illness, family emergency, etc.) prevent a student from meeting a deadline, the student must inform their instructor before the deadline.
+</p>
+<h3 id="headline-14">
+Books
+</h3>
+<p>
+We will be using a draft of a book that Anne Rogers and Borja Sotomayor are writing for this course. The book is available in both HTML and PDF format. Note that you will be asked for your CNetID and password to gain access to these files.
+</p>
+<h3 id="headline-15">
+Policy on academic honesty
+</h3>
+<p>
+We take academic honesty very seriously in this class. Please make sure to read our Academic Honesty page.
+</p>
+<h3 id="headline-16">
+Diversity statement
+</h3>
+<p>
+The University of Chicago is committed to diversity and rigorous inquiry that arises from multiple perspectives. We concur with that commitment and also believe that we have the highest quality interactions and can creatively solve more problems when we recognize and share our diversity. We thus expect to maintain a productive learning environment based upon open communication, mutual respect, and non-discrimination. We view the diversity that students bring to this class as a resource, strength and benefit. It is our intent to present materials and activities that are respectful of diversity: gender, sexuality, disability, socioeconomic status, ethnicity, race, religious background, and immigration status. Any suggestions as to how to further such a positive and open environment in the class will be appreciated and given serious consideration.
+</p>
+<h3 id="headline-17">
+Disability statement
+</h3>
+<p>
+If there are circumstances that make our learning environment and activities difficult, please let us know. We will maintain the confidentiality of any such discussions. If you need accommodations due to a disability you will also need to contact Student Disability Services at 773-702-6000, or disabilities@uchicago.edu
+</p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Next</div>
+    <a href="/teaching/2019-fall-uchicago-capp-30121/acad-honesty/" rel="prev">Academic honesty</a>
+  </div>
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          Last updated on Sep 9, 2018
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/python.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.afe0f8d594c8254a09e1fb481316399f.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
