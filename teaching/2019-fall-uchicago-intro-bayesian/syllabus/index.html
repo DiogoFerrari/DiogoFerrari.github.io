@@ -1,0 +1,1346 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.1">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Diogo Ferrari">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="MACS 30301 - Introduction to Bayesian Statistics&#xa0;&#xa0;&#xa0;ignore  -------------------------------------------------- \begin{center} \textbf{\Large MACS 30301 - Introduction to Bayesian Statistics} Computational Social Science Division of the Social Sciences University of Chicago Autumn/2019 \end{center} --------------------------------------------------  Course information     Instructor: Diogo Ferrari   e-mail: diogoferrari@uchicago.edu   Office: 5730 S. Woodlawn, Room 406   Office-hours: Monday 15:00-17:00 (or by appointment)   TA: TBA       Meeting day/time MWF 10:30-11:20   Description   The goal of this course is to give students an overview of the theory and methods for data analyses using the Bayesian paradigm.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arial:400,400i|Arial:400,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.9f218b4970ba95bdfea3bc16d578007f.css">
+
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-144996008-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@DiogoFerrari">
+  <meta property="twitter:creator" content="@DiogoFerrari">
+  
+  <meta property="og:site_name" content="Diogo Ferrari">
+  <meta property="og:url" content="https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/">
+  <meta property="og:title" content=" | Diogo Ferrari">
+  <meta property="og:description" content="MACS 30301 - Introduction to Bayesian Statistics&#xa0;&#xa0;&#xa0;ignore  -------------------------------------------------- \begin{center} \textbf{\Large MACS 30301 - Introduction to Bayesian Statistics} Computational Social Science Division of the Social Sciences University of Chicago Autumn/2019 \end{center} --------------------------------------------------  Course information     Instructor: Diogo Ferrari   e-mail: diogoferrari@uchicago.edu   Office: 5730 S. Woodlawn, Room 406   Office-hours: Monday 15:00-17:00 (or by appointment)   TA: TBA       Meeting day/time MWF 10:30-11:20   Description   The goal of this course is to give students an overview of the theory and methods for data analyses using the Bayesian paradigm."><meta property="og:image" content="https://DiogoFerrari.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://DiogoFerrari.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  
+  
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title> | Diogo Ferrari</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Diogo Ferrari</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://www.dropbox.com/s/wuiex2qv7a7nn19/CV.pdf?dl=0" target="_blank" rel="noopener"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/publication/#1"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/software"><span>Software</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name"></h1>
+
+  
+
+  
+    
+
+
+
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>Jan 1, 0001</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=&amp;body=https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=%20https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/&amp;title=" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      
+<h1 id="headline-1">
+MACS 30301 - Introduction to Bayesian Statistics&#xa0;&#xa0;&#xa0;<span class="tags"><span>ignore</span></span>
+</h1>
+<div class="src src-latex">
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-latex" data-lang="latex">--------------------------------------------------
+<span style="color:#66d9ef">\begin</span>{center}
+<span style="color:#66d9ef">\textbf</span>{<span style="color:#66d9ef">\Large</span> MACS 30301 - Introduction to Bayesian Statistics}
+
+Computational Social Science
+
+Division of the Social Sciences
+
+University of Chicago
+
+Autumn/2019
+<span style="color:#66d9ef">\end</span>{center}
+--------------------------------------------------</code></pre></div>
+</div>
+<h1 id="headline-2">
+Course information
+</h1>
+<table>
+<tbody>
+<tr>
+<td><strong>Instructor:</strong></td>
+<td><a href="https://.diogoferrari.com">Diogo Ferrari</a></td>
+</tr>
+<tr>
+<td><strong>e-mail:</strong></td>
+<td><a href="mailto:diogoferrari@uchicago.edu">diogoferrari@uchicago.edu</a></td>
+</tr>
+<tr>
+<td><strong>Office:</strong></td>
+<td>5730 S. Woodlawn, Room 406</td>
+</tr>
+<tr>
+<td><strong>Office-hours:</strong></td>
+<td>Monday 15:00-17:00 (or by appointment)</td>
+</tr>
+<tr>
+<td><strong>TA:</strong></td>
+<td>TBA</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>
+<p>
+<strong>Meeting day/time</strong>  MWF 10:30-11:20 
+</p>
+</li>
+</ul>
+<h1 id="headline-3">
+Description
+</h1>
+<p>
+The goal of this course is to give students an overview of the theory and methods for data analyses using the Bayesian paradigm. Topics include: (1) foundations of Bayesian inference; (2) development of Bayesian models and prior choices; (3) analytical and simulation techniques for posterior estimation; (4) model choice and diagnostics; (5) sensitivity analysis, and; (6) introduction to Monte Carlo Markov Chain (MCMC) simulations. Students will also learn how to estimate and summarize Bayesian models using Bayesian statistical packages (R/JAGS/Bugs). The course will use working examples with real application of Bayesian analysis in social sciences. Prerequisites: Basic knowledge of probability (e.g., joint and conditional distributions, expectation, variance) and introductory-level experience with R or Python (Note: Open to Advanced Undergraduates with Instructor Permission)
+</p>
+<h1 id="headline-4">
+Evaluation
+</h1>
+<table>
+<thead>
+<tr>
+<th></th>
+<th class="align-right">Total</th>
+<th>Total weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Problem sets</td>
+<td class="align-right">8</td>
+<td>80%</td>
+</tr>
+<tr>
+<td>Final exam</td>
+<td class="align-right">1</td>
+<td>20%</td>
+</tr>
+</tbody>
+</table>
+<h1 id="headline-5">
+Disability Service and Accomodation
+</h1>
+<p>
+If you need any special accommodations, please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) as soon as possible so that you may discuss with him/her how your accommodations may be implemented in this course.
+</p>
+<h1 id="headline-6">
+Schedule  
+</h1>
+<h3 id="headline-7">
+Calendar
+</h3>
+<table>
+<thead>
+<tr>
+<th class="align-right">#</th>
+<th class="align-right">Week</th>
+<th>Day</th>
+<th>Topic</th>
+<th>Assignment</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="align-right">1</td>
+<td class="align-right">1</td>
+<td></td>
+<td>The Bayesian Paradigm</td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">2</td>
+<td class="align-right">1</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">3</td>
+<td class="align-right">1</td>
+<td></td>
+<td></td>
+<td>PS1 (ho)</td>
+</tr>
+<tr>
+<td class="align-right">4</td>
+<td class="align-right">2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">5</td>
+<td class="align-right">2</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">6</td>
+<td class="align-right">2</td>
+<td></td>
+<td></td>
+<td>PS2 (ho); <strong>PS1 (d)</strong></td>
+</tr>
+<tr>
+<td class="align-right">7</td>
+<td class="align-right">3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">8</td>
+<td class="align-right">3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">9</td>
+<td class="align-right">3</td>
+<td></td>
+<td></td>
+<td>PS3 (ho); <strong>PS2 (d)</strong></td>
+</tr>
+<tr>
+<td class="align-right">10</td>
+<td class="align-right">4</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">11</td>
+<td class="align-right">4</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">12</td>
+<td class="align-right">4</td>
+<td></td>
+<td></td>
+<td>PS4 (ho); <strong>PS3 (d)</strong></td>
+</tr>
+<tr>
+<td class="align-right">13</td>
+<td class="align-right">5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">14</td>
+<td class="align-right">5</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">15</td>
+<td class="align-right">5</td>
+<td></td>
+<td></td>
+<td>PS5 (ho); <strong>PS4 (d)</strong></td>
+</tr>
+<tr>
+<td class="align-right">16</td>
+<td class="align-right">6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">17</td>
+<td class="align-right">6</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">18</td>
+<td class="align-right">6</td>
+<td></td>
+<td></td>
+<td>PS6 (ho); <strong>PS5 (d)</strong></td>
+</tr>
+<tr>
+<td class="align-right">19</td>
+<td class="align-right">7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">20</td>
+<td class="align-right">7</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">21</td>
+<td class="align-right">7</td>
+<td></td>
+<td></td>
+<td>PS7 (ho); <strong>PS6 (d)</strong></td>
+</tr>
+<tr>
+<td class="align-right">22</td>
+<td class="align-right">8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">23</td>
+<td class="align-right">8</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">24</td>
+<td class="align-right">8</td>
+<td></td>
+<td></td>
+<td>PS8 (ho); <strong>PS7 (d)</strong></td>
+</tr>
+<tr>
+<td class="align-right">25</td>
+<td class="align-right">9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">26</td>
+<td class="align-right">9</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">27</td>
+<td class="align-right">9</td>
+<td></td>
+<td></td>
+<td><strong>PS8 (d)</strong></td>
+</tr>
+<tr>
+<td class="align-right">28</td>
+<td class="align-right">10</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">29</td>
+<td class="align-right">10</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="align-right">30</td>
+<td class="align-right">10</td>
+<td></td>
+<td></td>
+<td><strong>Final Exam</strong></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>
+<p>
+ho: hand out
+</p>
+</li>
+<li>
+<p>
+d: due date
+</p>
+</li>
+</ul>
+<h3 id="headline-8">
+Scheduled readings
+</h3>
+<h1 id="headline-9">
+Textbooks
+</h1>
+<h3 id="headline-10">
+Required
+</h3>
+<ul>
+<li>
+<p>
+Gill, J. (2014) Bayesian methods: a social and behavioral sciences approach: CRC press.<br>
+<em>Practical introduction of the concepts of Bayesian statistics with examples of application in social sciences.</em>
+</p>
+</li>
+</ul>
+<h3 id="headline-11">
+Recommended
+</h3>
+<ul>
+<li>
+<p>
+Gelman, A., Carlin, J. B., Stern, H. S., &amp; Rubin, D. B.  (2014) Bayesian Data Analysis, Chapman &amp; Hall/CRC Boca Raton, FL, USA.<br>
+<em>Called for many people &#34;The Bible&#34;, this book contains a comprehensive overview of many topics in Bayesian statistics.</em>
+</p>
+</li>
+<li>
+<p>
+Jackman, S. (2009)  Bayesian analysis for the social sciences , John Wiley &amp; Sons.<br>
+<em>The book contains more advanced treatment of some topics in Bayesian analysis.</em>
+</p>
+</li>
+<li>
+<p>
+Kruschke, J. (2015) Doing bayesian data analysis: a tutorial with r, jags, and stan, Academic Press.<br>
+<em>This is an introduction-level book with many examples and illustrations of Bayesian analysis. It covers the computational side, and it is a useful tutorial-like approach for practical implementation of Bayesian models in JAGS.</em>
+</p>
+</li>
+</ul>
+<h1 id="headline-12">
+Software
+</h1>
+<ul>
+<li>
+<p>
+Team, R. C. (2018) R: a language and environment for statistical computing.<br>
+<em>Free statistical software available for download at <a href="https://www.r-project.org/">this</a> website. The software is available for all main operation system (Linux, OS, Windows)</em>
+</p>
+</li>
+<li>
+<p>
+Plummer, M., Stukalov, A., &amp; Denwood, M. (2018) Rjags: r api to jags.<br>
+<em>Free software for Bayesian analysis available for download at <a href="https://sourceforge.net/projects/mcmc-jags/files/">this</a> website. The software is available for UNIX based operation system (Linux, OS).</em>
+</p>
+</li>
+<li>
+<p>
+Lunn, D., Jackson, C., Best, N., Thomas, A., &amp; Spiegelhalter, D. (2012) The bugs book: a practical introduction to bayesian analysis, CRC press.<br>
+<em>Windows users can install the free windows based version called WinBUGS instead of JAGS, which is available for download at <a href="https://www.mrc-bsu.cam.ac.uk/software/bugs/the-bugs-project-winbugs/">this</a> website</em>
+</p>
+</li>
+<li>
+<p>
+Plummer, M. (2017) Jags version 4.3.0 user manual.<br>
+<em>R package used to estimate Bayesian models using JAGS.</em>
+</p>
+</li>
+</ul>
+<h1 id="headline-13">
+Academic Integrity
+</h1>
+<p>
+The University of Chicago has a <a href="https://studentmanual.sites.uchicago.edu/Policies#Honesty">formal policy on academic honesty</a> that you are expected to adhere to. Here are some guidelines we expect you to follow:
+</p>
+<ol>
+<li>
+<p>
+Courtesy, honesty, and respect should be shown by students toward faculty members, guest lecturers, administrative support staff, and fellow students. Similarly, students should expect faculty to treat them fairly, showing respect for their ideas and opinions and striving to help them achieve maximum benefits from their experience in the School.
+</p>
+</li>
+<li>
+<p>
+Academic dishonesty can encompass many activities, which includes plagiarism, cheating, fabrication, falsification of records or official documents, intentional misuse of equipment or materials (including library materials), and aiding and abetting the perpetration of such acts. One of the gravest academic dishonesty is plagiarism: knowingly handing in someone else&#39;s work as your own, whether it be work done by another student in the class or available publicly on the Internet. This class has a zero tolerance policy for plagiarism.
+</p>
+</li>
+<li>
+<p>
+The preparation of solutions for problem sets, papers, and examinations, assigned on an individual basis, must represent each students own effort. Therefore:
+</p>
+<ul>
+<li>
+<p>
+You MUST NOT copy or use someone else&#39;s work (with or without their permission) in your own solution. You have to write your own.
+</p>
+</li>
+<li>
+<p>
+DO NOT post your solutions to problem sets or exams in publicly-accessible websites, like pastebin, a public GitHub repository, GitHub gists, etc. While these tools may seem like convenient mechanisms for sharing code with an instructor/TA or with a project partner, they can also expose your code to other students in the class. If you do post your solution in a publicly-accessible location, and we find out about it outside of a plagiarism incident, you will just get a warning. However, if another student in the class uses code that you posted on such a site (even if you did not intend for that code to be used by someone else), you be considered an equally guilty party in a plagiarism offense, and will receive the exact same penalty as the student who used your code.
+</p>
+</li>
+</ul>
+</li>
+</ol>
+
+    </div>
+
+    
+
+
+
+    
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu1cf31c61bbab355012227e4c23224cd3_213444_250x250_fill_lanczos_center_2.png" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="https://DiogoFerrari.github.io/">Diogo Ferrari</a></h5>
+      <h6 class="card-subtitle">Political Scientist</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+          <li>
+            <a itemprop="sameAs" href="mailto:diogoferrari@gmail.com" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.com.br/citations?user=pPZ5KokAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/DiogoFerrari" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://twitter.com/DiogoFerrari" target="_blank" rel="noopener">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://www.researchgate.net/profile/Diogo_Ferrari" target="_blank" rel="noopener">
+              <i class="ai ai-researchgate"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4249153Y8" target="_blank" rel="noopener">
+              <i class="ai ai-lattes"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://www.dropbox.com/s/wuiex2qv7a7nn19/CV.pdf?dl=0" target="_blank" rel="noopener">
+              <i class="ai ai-cv"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+      
+      
+    
+
+    
+
+    
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/r.min.js"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/python.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.afe0f8d594c8254a09e1fb481316399f.js"></script>
+
+    
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

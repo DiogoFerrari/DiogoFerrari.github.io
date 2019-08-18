@@ -1,15 +1,458 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diogo Ferrari</title>
+    <title>MACS 30301 - Introduction to Bayesian Statistics on Diogo Ferrari</title>
     <link>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/</link>
-    <description>Recent content on Diogo Ferrari</description>
+    <description>Recent content in MACS 30301 - Introduction to Bayesian Statistics on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/</guid>
+      <description>
+&lt;h1 id=&#34;headline-1&#34;&gt;
+MACS 30301 - Introduction to Bayesian Statistics&amp;#xa0;&amp;#xa0;&amp;#xa0;&lt;span class=&#34;tags&#34;&gt;&lt;span&gt;ignore&lt;/span&gt;&lt;/span&gt;
+&lt;/h1&gt;
+&lt;div class=&#34;src src-latex&#34;&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;--------------------------------------------------
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{center}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\textbf&lt;/span&gt;{&lt;span style=&#34;color:#66d9ef&#34;&gt;\Large&lt;/span&gt; MACS 30301 - Introduction to Bayesian Statistics}
+
+Computational Social Science
+
+Division of the Social Sciences
+
+University of Chicago
+
+Autumn/2019
+&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{center}
+--------------------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;headline-2&#34;&gt;
+Course information
+&lt;/h1&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Instructor:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://.diogoferrari.com&#34;&gt;Diogo Ferrari&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;e-mail:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:diogoferrari@uchicago.edu&#34;&gt;diogoferrari@uchicago.edu&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Office:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;5730 S. Woodlawn, Room 406&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Office-hours:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Monday 15:00-17:00 (or by appointment)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;TA:&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;TBA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;strong&gt;Meeting day/time&lt;/strong&gt;  MWF 10:30-11:20 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;headline-3&#34;&gt;
+Description
+&lt;/h1&gt;
+&lt;p&gt;
+The goal of this course is to give students an overview of the theory and methods for data analyses using the Bayesian paradigm. Topics include: (1) foundations of Bayesian inference; (2) development of Bayesian models and prior choices; (3) analytical and simulation techniques for posterior estimation; (4) model choice and diagnostics; (5) sensitivity analysis, and; (6) introduction to Monte Carlo Markov Chain (MCMC) simulations. Students will also learn how to estimate and summarize Bayesian models using Bayesian statistical packages (R/JAGS/Bugs). The course will use working examples with real application of Bayesian analysis in social sciences. Prerequisites: Basic knowledge of probability (e.g., joint and conditional distributions, expectation, variance) and introductory-level experience with R or Python (Note: Open to Advanced Undergraduates with Instructor Permission)
+&lt;/p&gt;
+&lt;h1 id=&#34;headline-4&#34;&gt;
+Evaluation
+&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th class=&#34;align-right&#34;&gt;Total&lt;/th&gt;
+&lt;th&gt;Total weight&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Problem sets&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;8&lt;/td&gt;
+&lt;td&gt;80%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Final exam&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;1&lt;/td&gt;
+&lt;td&gt;20%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;headline-5&#34;&gt;
+Disability Service and Accomodation
+&lt;/h1&gt;
+&lt;p&gt;
+If you need any special accommodations, please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) as soon as possible so that you may discuss with him/her how your accommodations may be implemented in this course.
+&lt;/p&gt;
+&lt;h1 id=&#34;headline-6&#34;&gt;
+Schedule  
+&lt;/h1&gt;
+&lt;h3 id=&#34;headline-7&#34;&gt;
+Calendar
+&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&#34;align-right&#34;&gt;#&lt;/th&gt;
+&lt;th class=&#34;align-right&#34;&gt;Week&lt;/th&gt;
+&lt;th&gt;Day&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Assignment&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;1&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;The Bayesian Paradigm&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;2&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;3&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;PS1 (ho)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;4&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;5&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;6&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;2&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;PS2 (ho); &lt;strong&gt;PS1 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;7&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;8&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;9&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;3&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;PS3 (ho); &lt;strong&gt;PS2 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;10&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;11&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;12&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;4&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;PS4 (ho); &lt;strong&gt;PS3 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;13&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;5&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;14&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;5&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;15&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;5&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;PS5 (ho); &lt;strong&gt;PS4 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;16&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;17&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;18&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;6&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;PS6 (ho); &lt;strong&gt;PS5 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;19&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;7&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;20&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;7&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;21&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;7&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;PS7 (ho); &lt;strong&gt;PS6 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;22&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;8&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;23&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;8&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;24&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;8&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;PS8 (ho); &lt;strong&gt;PS7 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;25&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;9&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;26&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;9&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;27&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;9&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;PS8 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;28&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;10&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;29&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;10&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;30&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;10&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Final Exam&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+ho: hand out
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+d: due date
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;headline-8&#34;&gt;
+Scheduled readings
+&lt;/h3&gt;
+&lt;h1 id=&#34;headline-9&#34;&gt;
+Textbooks
+&lt;/h1&gt;
+&lt;h3 id=&#34;headline-10&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Gill, J. (2014) Bayesian methods: a social and behavioral sciences approach: CRC press.&lt;br&gt;
+&lt;em&gt;Practical introduction of the concepts of Bayesian statistics with examples of application in social sciences.&lt;/em&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;headline-11&#34;&gt;
+Recommended
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Gelman, A., Carlin, J. B., Stern, H. S., &amp;amp; Rubin, D. B.  (2014) Bayesian Data Analysis, Chapman &amp;amp; Hall/CRC Boca Raton, FL, USA.&lt;br&gt;
+&lt;em&gt;Called for many people &amp;#34;The Bible&amp;#34;, this book contains a comprehensive overview of many topics in Bayesian statistics.&lt;/em&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Jackman, S. (2009)  Bayesian analysis for the social sciences , John Wiley &amp;amp; Sons.&lt;br&gt;
+&lt;em&gt;The book contains more advanced treatment of some topics in Bayesian analysis.&lt;/em&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Kruschke, J. (2015) Doing bayesian data analysis: a tutorial with r, jags, and stan, Academic Press.&lt;br&gt;
+&lt;em&gt;This is an introduction-level book with many examples and illustrations of Bayesian analysis. It covers the computational side, and it is a useful tutorial-like approach for practical implementation of Bayesian models in JAGS.&lt;/em&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;headline-12&#34;&gt;
+Software
+&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+Team, R. C. (2018) R: a language and environment for statistical computing.&lt;br&gt;
+&lt;em&gt;Free statistical software available for download at &lt;a href=&#34;https://www.r-project.org/&#34;&gt;this&lt;/a&gt; website. The software is available for all main operation system (Linux, OS, Windows)&lt;/em&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Plummer, M., Stukalov, A., &amp;amp; Denwood, M. (2018) Rjags: r api to jags.&lt;br&gt;
+&lt;em&gt;Free software for Bayesian analysis available for download at &lt;a href=&#34;https://sourceforge.net/projects/mcmc-jags/files/&#34;&gt;this&lt;/a&gt; website. The software is available for UNIX based operation system (Linux, OS).&lt;/em&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Lunn, D., Jackson, C., Best, N., Thomas, A., &amp;amp; Spiegelhalter, D. (2012) The bugs book: a practical introduction to bayesian analysis, CRC press.&lt;br&gt;
+&lt;em&gt;Windows users can install the free windows based version called WinBUGS instead of JAGS, which is available for download at &lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/software/bugs/the-bugs-project-winbugs/&#34;&gt;this&lt;/a&gt; website&lt;/em&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Plummer, M. (2017) Jags version 4.3.0 user manual.&lt;br&gt;
+&lt;em&gt;R package used to estimate Bayesian models using JAGS.&lt;/em&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;headline-13&#34;&gt;
+Academic Integrity
+&lt;/h1&gt;
+&lt;p&gt;
+The University of Chicago has a &lt;a href=&#34;https://studentmanual.sites.uchicago.edu/Policies#Honesty&#34;&gt;formal policy on academic honesty&lt;/a&gt; that you are expected to adhere to. Here are some guidelines we expect you to follow:
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;
+Courtesy, honesty, and respect should be shown by students toward faculty members, guest lecturers, administrative support staff, and fellow students. Similarly, students should expect faculty to treat them fairly, showing respect for their ideas and opinions and striving to help them achieve maximum benefits from their experience in the School.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+Academic dishonesty can encompass many activities, which includes plagiarism, cheating, fabrication, falsification of records or official documents, intentional misuse of equipment or materials (including library materials), and aiding and abetting the perpetration of such acts. One of the gravest academic dishonesty is plagiarism: knowingly handing in someone else&amp;#39;s work as your own, whether it be work done by another student in the class or available publicly on the Internet. This class has a zero tolerance policy for plagiarism.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+The preparation of solutions for problem sets, papers, and examinations, assigned on an individual basis, must represent each students own effort. Therefore:
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+You MUST NOT copy or use someone else&amp;#39;s work (with or without their permission) in your own solution. You have to write your own.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+DO NOT post your solutions to problem sets or exams in publicly-accessible websites, like pastebin, a public GitHub repository, GitHub gists, etc. While these tools may seem like convenient mechanisms for sharing code with an instructor/TA or with a project partner, they can also expose your code to other students in the class. If you do post your solution in a publicly-accessible location, and we find out about it outside of a plagiarism incident, you will just get a warning. However, if another student in the class uses code that you posted on such a site (even if you did not intend for that code to be used by someone else), you be considered an equally guilty party in a plagiarism offense, and will receive the exact same penalty as the student who used your code.
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
