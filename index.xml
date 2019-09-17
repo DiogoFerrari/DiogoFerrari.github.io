@@ -12,682 +12,130 @@
     
     
     <item>
-      <title>Academic honesty</title>
-      <link>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-capp-30121/acad-honesty/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-capp-30121/acad-honesty/</guid>
-      <description>&lt;p&gt;
-The University of Chicago has a &lt;a href=&#34;https://studentmanual.sites.uchicago.edu/Policies#Honesty&#34;&gt;formal policy on academic honesty&lt;/a&gt; that you are expected to adhere to. In this page, we elaborate on how we view academic honesty as it relates to this course, and provide some rules to ensure that you do not cross the line into academic dishonesty.
-&lt;/p&gt;
-&lt;p&gt;
-Academic dishonesty can encompass many activities, but one of the gravest is plagiarism: knowingly handing in someone else’s work as your own, whether it be work done by another student in the class or available publicly on the Internet. This class has a zero tolerance policy for plagiarism. If we determine that you committed plagiarism, you will receive an F in the course no matter how seemingly small the offense. All cases will be referred to the Dean of Students office, which may impose further penalties, including suspension and expulsion.
-&lt;/p&gt;
-&lt;p&gt;
-Please note that plagiarism is fairly easy for us to detect: we use a series of automated tools that look for similarities between your code and other students’ code, including code submitted in previous offerings of this class. If you use someone else’s code, it is very likely you will get caught and, to reiterate, you will then automatically receive an F in the class.
-&lt;/p&gt;
-&lt;p&gt;
-Fortunately, avoiding plagiarism is very simple! For the most part, you just need to make sure you follow these simple rules:
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-DO NOT ask another student in the class to show you or e-mail you their code. It doesn’t matter how you want to use it: even if you just want to skim through their solution for inspiration, this is still plagiarism. Needless to say, you MUST NOT use someone else’s code (with or without their permission) in your own solution.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-Similarly, DO NOT show or share your code with another student in the class. If someone in the class asks you to share your code with them, even if you’re certain they won’t use it and they just want to look at it to get “unstuck”, please point them to this page. Take into account that, if you willingly share your code with someone else, you are not being a “Good Samaritan”: instead you are an equally guilty party in a plagiarism offense, and will receive the exact same penalty as the student who used your code.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-DO NOT post your code in publicly-accessible websites, like pastebin, a public GitHub repository, GitHub gists, etc. While these tools may seem like convenient mechanisms for sharing code with an instructor/TA or with a project partner, they can also expose your code to other students in the class. You are provided with a private repository on our GitLab server, and you should use that repository exclusively to share code with your project partner, or with the instructional staff. If you do post your code in a publicly-accessible location, and we find out about it outside of a plagiarism incident, you will just get a warning. However, if another student in the class uses code that you posted on such a site (even if you did not intend for that code to be used by someone else), you be considered an equally guilty party in a plagiarism offense, and will receive the exact same penalty as the student who used your code.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-In general, DO NOT use code you find on the Internet. There are certain situations where consulting and citing online sources (including those that may show code examples) is appropriate, and we elaborate on this point below. However, please be aware that, the moment you use code on the Internet, you are walking into an academic honesty minefield (and, even if you provide a citation, you may not get any credit for that code).
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-We realize that sometimes students commit plagiarism out of desperation and as a measure of last resort. If you are in this situation, please just ask the instructors for help. If you are having a hard time in the class, we will provide as much assistance as we can. Plus, a poor performance in one assignment is unlikely to wreck your grade for the class. Plagiarism is never worth it.
-&lt;/p&gt;
-&lt;p&gt;
-All that said, we do encourage a collaborative environment in this class, as long as it doesn’t slip into the realm of plagiarism. If a given assignment requires you to work with another student, you may share code with that student only for that assignment. You are also welcome to discuss aspects of an assignment with other students in the class, as long as you don’t share or write code together.
-&lt;/p&gt;
-&lt;p&gt;
-Please note that this also includes “whiteboarding”: discussing an assignment with other students by sketching out code on a whiteboard may cross the line into academic dishonesty (even when using pseudocode). If you do sketch out code on a whiteboard, do not rely on the verbatim contents of the whiteboard when writing your solution (we recommend that you do not take photos of the whiteboard or verbatim copy anything from the whiteboard into your own code). You should instead focus on using the whiteboard discussion as a way to understand the high-level aspects of the problem, and then writing your own code from scratch. Also, please make sure to erase the board!
-&lt;/p&gt;
-&lt;p&gt;
-In any case, if you have discussed parts of an assignment with someone else, then make sure to say so in your submission (e.g., in a README file or as a comment at the top of your source code file).
-&lt;/p&gt;
-&lt;p&gt;
-Using outside sources is generally acceptable as long as:
-&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;
-You cite the source you used.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-You do not use verbatim blocks of code from that source.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-The source does not provide a complete (or nearly complete) solution to the assignment.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;
-Some sources may provide small code examples that are used to illustrate a concept. We encourage you to never use those examples verbatim in your code, but we understand that, in some cases, your own code may be reasonably similar to those examples (e.g., because there are very few ways in which a given piece of code could be written). To ensure this is not flagged as plagiarism, always err on the side of including a citation.
-&lt;/p&gt;
-&lt;p&gt;
-Please note that you do not need to cite the course book or the Python documentation (as long as you are not using verbatim blocks of code from them).
-&lt;/p&gt;
-&lt;p&gt;
-Finally, if you have any questions regarding what would or would not be considered academic dishonesty in this course, please don’t hesitate to ask the instructor.
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Modeling Latent Effect Heterogeneity</title>
-      <link>https://DiogoFerrari.github.io/research/npb/</link>
+      <title>Current Projects</title>
+      <link>https://DiogoFerrari.github.io/research/</link>
       <pubDate>Sun, 21 Jul 2019 23:18:51 -0300</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/research/npb/</guid>
-      <description>
-
-&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/simpsons-paradox3.png&#34; align=&#34;left&#34; width=&#34;400&#34; style=&#34;padding-right: 10px;&#34;&gt; The goal of this project is to provide a series of tools to investigate &lt;em&gt;latent heterogeneity&lt;/em&gt; in the effect of treatment variables or other observed covariates. Latent heterogeneity can occur because latent conditioning terms (i.e., interactive factors) are omitted in the empirical analysis.&lt;/p&gt;
-
-&lt;p&gt;In generalized linear models, omitting interactions can lead to latent occurrences &lt;a href=&#34;https://en.wikipedia.org/wiki/Simpson%27s_paradox&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Simpson&amp;rsquo;s Paradox&lt;/a&gt;, which is a long-standing problem in statistical analysis in general and in the social sciences in particular. Simpson&amp;rsquo;s paradox refers to the possibility that an effect found when data are aggregated is entirely different or even reversed when data are separated and analyzed in groups. If these groups are latent, classical empirical approaches (GLM, mixed models, etc.) are not able to detect and deal with them, meaning that Simpson&amp;rsquo;s Paradox goes unnoticed by the researcher. In practice, it means that a researcher can conclude that an effect is positive when, in fact, it is positive only for a subgroup of the population but negative for another subgroup.&lt;/p&gt;
-
-&lt;p&gt;In comparative analysis, there is another level of complication: different countries can have different latent factors conditioning different observed covariates. This problem is not new, and many researchers have recognized its importance and its implications for both observational and experimental studies (see, for instance,
-&lt;a href=&#34;https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199566020.001.0001/oxfordhb-9780199566020-e-6&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Adam Przeworski, 2007&lt;/a&gt;). It is impossible for researchers to know &lt;em&gt;a priori&lt;/em&gt; if interactions are omitted. &lt;a href=&#34;https://yalebooks.yale.edu/book/9780300169409/field-experiments-and-their-critics&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Suzan Stokes (2014)&lt;/a&gt;, using different terms, argues that the omnipresent possibility of omitting relevant interactions in the analysis is a source of an attitude of &lt;em&gt;radical skepticism&lt;/em&gt; regarding the results of observational and experimental empirical investigation in the social sciences. She says:&lt;/p&gt;
-
-&lt;blockquote&gt;
-But from the standpoint of the radical skeptic, &lt;font color=&#34;red&#34;&gt;&lt;b&gt;no research design can dispose of all potential interactions&lt;/b&gt;&lt;/font&gt;. Setting plausibility aside, if units have high dimensionality and if some confounders are unmeasurable, some unobserved trait is always likely to interact with the treatment. Faced with an experimental study that uncovers a causal effect, &lt;font color=&#34;red&#34;&gt;&lt;b&gt;the radical skeptic should posit some unspecified subset of units whose response to treatment is at odds with the average response, potentially changing the theoretical implications of the study’s findings&lt;/b&gt;&lt;/font&gt;. If interactions can change the interpretation of experimental results, then the radical skeptic should be unnerved by their implication for experimental research. Because one can test only for interactions between treatments and observed factors, ungrounded skepticism implies that we will remain in the dark regarding the real findings of experimental studies.
-&lt;br&gt;
-&lt;br&gt;
-&lt;font color=&#34;red&#34;&gt;&lt;b&gt;Unobserved interactions [...] are omnipresent and inevitably limit the contribution of research to knowledge&lt;/b&gt;&lt;/font&gt; (Stokes, 2014, pg. 46)
-&lt;/blockquote&gt;
-
-&lt;p&gt;This project develops some machine learning approaches and semi-parametric Bayesian (SPB) methods for dealing with those issues and investigating if interactions were omitted.&lt;/p&gt;
-
-&lt;p&gt;A recent a recent paper, &amp;ldquo;&lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/&#34; style=&#34;color:blue2&#34;&gt;Modeling Context-Dependent Latent Effect Heterogeneity&lt;/a&gt;,&amp;rdquo; published in &lt;em&gt;Political Analysis&lt;/em&gt;, I propose a hierarchical Dirichlet mixture of generalized linear models to deal with that problem. Using the model, researchers don’t need to specify all interactions explicitly. The model estimates marginal effects, even though interactions are missing in the model specification. Moreover, contrary to previous approaches, my method allows researchers to investigate whether contextual features such as schools, hospitals, neighborhoods, and country-specific institutional settings are associated with the emergence of latent heterogeneity in the effect of observables. I illustrate the model’s contributions with applications in political science that investigate attitudes toward financial aid and the effect of inequality on beliefs about meritocracy. The method is implemented in R, and it is available in the R package &lt;a href=&#34;https://DiogoFerrari.github.io/software/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Hierarchical Dirichlet Process Generalized Linear Models (hdpGLM)&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/npb-densities.png&#34; align=&#34;right&#34; width=&#34;300&#34; style=&#34;padding-left: 10px;&#34;&gt;I have used SPB models to study the latent structure of public support for welfare policies in OECD countries. I show that there is a hidden polarization among the observed socioeconomic groups in some countries but not others. My research indicates that one side effect of welfare policies in highly unequal societies with fragmented party systems is the existence of latent polarization in welfare policy preferences among individuals with similar observed socioeconomic characteristics. Countries that do not display such a latent polarization (the USA, Japan, Australia, New Zealand) usually have comparative smaller welfare states.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Here are some related papers:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;(2019) &lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/&#34; style=&#34;color:blue2&#34;&gt; Modeling Context-Dependent Latent Effect Heterogeneity&lt;/a&gt; &lt;i&gt;Political Analysis&lt;/i&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2019-measuring/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Measuring Public Polarization and its Connection to the Determinants of Political Preferences&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;references&#34;&gt;References&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Przeworski, A., &lt;a href=&#34;https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780199566020.001.0001/oxfordhb-9780199566020-e-6&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Is the science of comparative politics possible?&lt;/a&gt;
-, In C. B. Boix, &amp;amp; S. C. Stokes (Eds.), The Oxford Handbook of Comparative Politics (pp. ) (2007). : Oxford Handbooks Online.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Stokes, S. C., A defense of observational research, In D. L. Teele (Eds.),
-&lt;a href=&#34;https://yalebooks.yale.edu/book/9780300169409/field-experiments-and-their-critics&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Field experiments and their critics: Essays on the uses and abuses of experimentation in the social sciences&lt;/a&gt; (pp. 33–57) (2014). New Haven, CT: Yale University Press.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://DiogoFerrari.github.io/research/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Perceptions, Political Behavior, Polarization, and Welfare Attitudes (with Rob Franzese)</title>
-      <link>https://DiogoFerrari.github.io/research/perceptions/</link>
-      <pubDate>Sat, 20 Jul 2019 23:06:47 -0300</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/research/perceptions/</guid>
-      <description>&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/populism.jpg&#34; align=&#34;right&#34; width=&#34;400&#34; style=&#34;padding-left: 30px;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;In democratic, multicultural, and pluralistic modern societies in which a variety of political views coexist and are freely expressed in social media, news, and party discourses, people can feel that their world view and lifestyle are threatened by political opinions that are different from theirs. Increasing tension can lead to radicalization, extremism in political attitudes, passionate partisanship, and entrenchment of groups in different poles of the political and ideological spectrum. This project investigates those trends from two perspectives.&lt;/p&gt;
-
-&lt;p&gt;First, the project investigates how individuals&amp;rsquo; material conditions are connected to their perceptions about the socioeconomic environment, including the state of the economy, unemployment, and other social groups, and how those perceptions are connected, by its turn, to political preferences.&lt;/p&gt;
-
-&lt;p&gt;Second, political leaders can take advantage of tensions in voters&amp;rsquo; preferences to gain electoral support. We use unsupervised learning methods to investigate latent subpopulations that are more easily targeted by those politicians. Ultimately, we seek to understand why socioeconomic-position-dependent perceptions about the socioeconomic environment make some individuals but not others more susceptible to certain populist &amp;lsquo;otherizing&amp;rsquo; appeals.&lt;/p&gt;
-
-&lt;p&gt;Here is some current work in progress:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Perceptions and Polarization of Public Opinion&lt;/li&gt;
-&lt;li&gt;Latent Polarization in Welfare Attitudes in OECD countries.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Measuring Public Polarization and its Connection to the Determinants of Political Preferences</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-measuring/</link>
+      <title>Publications</title>
+      <link>https://DiogoFerrari.github.io/publication/</link>
       <pubDate>Sat, 20 Jul 2019 03:08:17 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-measuring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Effect of Aggregate Income Distribution on Preferences for Centralization of Political Authority</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-effect/</link>
-      <pubDate>Mon, 15 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-effect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Finite Mixture Model for Electoral Fraud Detection: Application to the Brazilian 2010 Presidential Election</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-finite/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-finite/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adjusting for Poor-quality Survey Answers Using Nonresponses</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-adjusting/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-adjusting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cluster Estimated Standard Errors in R (ceser)</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigating Election Fraud using Finite Mixture Models and Semi-parametric Density Estimation</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-investigating/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-investigating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preference for Redistribution by Police Area</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-preferences/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-preferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Effect of Perceptions about Aggregate Demand for Redistibution on Support for Welfare Policies: a Survey Experiment</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-perceptions/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-perceptions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling Context-dependent Latent Effect Heterogeneity</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/</link>
-      <pubDate>Mon, 08 Jul 2019 21:43:28 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Information, Income Distribution, and Policy Preferences</title>
-      <link>https://DiogoFerrari.github.io/research/survey-br/</link>
-      <pubDate>Tue, 11 Jun 2019 23:27:44 -0300</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/research/survey-br/</guid>
-      <description>&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/centralization.png&#34; align=&#34;left&#34; width=&#34;350&#34; style=&#34;padding-right: 10px;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Classical theories about public preferences for the allocation of political authority in multilevel polities emphasize the role of economic conditions, identity, and nationalist/regionalist values. In developed nations, immigration has played a significant role in public attitudes about supra-national integration.&lt;/p&gt;
-
-&lt;p&gt;This project seeks to understand how information about inequality and income distribution affect political attitudes about welfare policies and political integration. How do different social groups process information about inequality? How does that information change their perception about their social and political environment? How do perceptions affect political attitudes and ideological positions?&lt;/p&gt;
-
-&lt;p&gt;As a part of this project, I have conducted a nation-wide survey experiment in 2018-2019 in Brazil with other collaborators to investigate the reaction of various groups to different types of information about the distribution of income and inequality. Preliminary results show that people, particularly from the middle class, tend to act as if demand for redistribution led to an increase in welfare state efforts. So, information about the distribution of income make people adjust their belief about the demand for redistribution and, as a consequence, strengthen their support (opposition) to redistributive policies and parties with redistributive programs.&lt;/p&gt;
-
-&lt;p&gt;Not only that. Information about state-level demand for redistribution makes high-income groups more centralist (favor centralization of political authority). Poor population, on the other hand, support more decentralization when they receive the same information. An interesting finding is that the effect of information is stronger among the white population because this population &lt;i&gt;perceive&lt;/i&gt; that they and, therefore, other groups as well, can influence political decisions. On the other hand, the attitudes of non-white population, who feel marginalized from the political process, are less affected by information about inequality and demand for welfare policies.&lt;/p&gt;
-
-&lt;p&gt;Some related working papers:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Public Policy Preferences, Redistribution, and Support for Welfare Integration in Multilevel Polities: a Survey Experiment in Brazil&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Unsupervised Learning Methods and FMM for Election Forensics (with Walter Mebane)</title>
-      <link>https://DiogoFerrari.github.io/research/eforensics/</link>
-      <pubDate>Sat, 01 Jun 2019 23:18:51 -0300</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/research/eforensics/</guid>
-      <description>&lt;p&gt;&lt;div align=&#34;justify&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/eforensics-distr.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt;
-Elections are one of the cornerstones of modern democracies. &lt;em&gt;Election forensics&lt;/em&gt; is a subarea of Political Science that uses statistical methods to investigate frauds in election.&lt;/p&gt;
-
-&lt;p&gt;Frauds are by their very nature concealed phenonema. The perpetrators don&amp;rsquo;t want to reveal their act and want to avoid leaving any indication of manipulaiton of the results. This NFS-funded project, with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/faculty/wmebane.html&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Walter Mebane&lt;/a&gt; (PA), proposes some unsupervised learning methods and a series of finite mixture models to estimate the probability of fraud in elections using election data.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Some related papers:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Diogo Ferrari, Kevin McAlister, and Walter Mebane (2018) &lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2018-dimensions/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt; Developments in Positive Empirical Models of Election Frauds: Dimensions and Decisions&lt;/a&gt; &lt;em&gt;Polmeth XXXV&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Diogo Ferrari, Walter R. Mebane Jr. (2017). &lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2017-developments/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Developments in Positive Empirical Models of Election Frauds&lt;/a&gt;. &lt;em&gt;Polmeth XXXIV&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Diogo Ferrari, Walter R. Mebane Jr. (2016). &lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2016-positive/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Positive Empirical Models of Election Frauds&lt;/a&gt;. &lt;em&gt;APSA&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Diogo Ferrari (2016). &lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2016-binomial/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;A Logistic-Binomial Mixture Model for Fraud Detection in Elections&lt;/a&gt;. &lt;em&gt;Polmeth XXXIII&lt;/em&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Essays on the Micro-Foundations of Welfare Attitudes and Polarization of Policy Preferences</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-essays/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-essays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developments in Positive Empirical Models of Election Frauds: Dimensions and Decisions</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-dimensions/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-dimensions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developments in Positive Empirical Models of Election Frauds</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-developments/</link>
-      <pubDate>Mon, 10 Jul 2017 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-developments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Semi-parametric Approch to Estimate Latent Heterogeneity with Generalized Linear Mixed Models</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-semi/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-semi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Allocation of Authority and Preferences for Redistribution</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-allocation/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-allocation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distribution of Income, Redistributive Preferences, and Preferences for Political Institutions</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-distribution/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-distribution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Political Economy of intra-party solidarity and interregional redistribution</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-political/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-political/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Mediation Effect of Preferences for Redistribution on Preferences for Centralization of Political Authority by Policy Area</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-centralization/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-centralization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Logistic-Binomial Mixture Model for Fraud Detection in Elections</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2016-binomial/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-binomial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developments in Positive Empirical Models of Election Frauds</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2016-developments/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-developments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Political Economy of Intraparty Negotiation and Interregional Redistribution</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2016-intraparty/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-intraparty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Positive Empirical Models of Election Frauds</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2016-positive/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-positive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Preferences Regarding the Vertical Distribution of Authority in Brazil: On Measurement and Determinants</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2015-preferences/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2015-preferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Conditional Direct and Unconditional Indirect Effect of Income on Preferences for Centralization of Authority</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2016-centralization/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-centralization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of Intraparty Negotiation on Interregional Redistribution</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2015-effect/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2015-effect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Territorial Division of Power: A Survey on Brazil</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2014-territorial/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2014-territorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fiscal Decentralization and Redistribution of Public Revenue: FPE in the Brazilian Constitutional Convention of 1988</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2013-m-athesis/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2013-m-athesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Role of Congress on the negotiation of International Treaties Under the Coalition Presidentialism</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2011-tratadosen/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2011-tratadosen/</guid>
+      <guid>https://DiogoFerrari.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/</link>
+      <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/</guid>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://DiogoFerrari.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://DiogoFerrari.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Softwares</title>
+      <link>https://DiogoFerrari.github.io/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/software/</guid>
       <description>
-&lt;h1 id=&#34;headline-1&#34;&gt;
-MACS 30301 - Introduction to Bayesian Statistics&amp;#xa0;&amp;#xa0;&amp;#xa0;&lt;span class=&#34;tags&#34;&gt;&lt;span&gt;ignore&lt;/span&gt;&lt;/span&gt;
-&lt;/h1&gt;
-&lt;div class=&#34;src src-latex&#34;&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;--------------------------------------------------
-&lt;span style=&#34;color:#66d9ef&#34;&gt;\begin&lt;/span&gt;{center}
-&lt;span style=&#34;color:#66d9ef&#34;&gt;\textbf&lt;/span&gt;{&lt;span style=&#34;color:#66d9ef&#34;&gt;\Large&lt;/span&gt; MACS 30301 - Introduction to Bayesian Statistics}
 
-Computational Social Science
+&lt;hr /&gt;
 
-Division of the Social Sciences
+&lt;h3 id=&#34;a-href-https-github-com-diogoferrari-hdpglm-style-color-blue2-target-blank-hierarchical-dirichlet-process-generalized-linear-models-hdpglm-a&#34;&gt;&lt;a href=&#34;https://github.com/DiogoFerrari/hdpGLM&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Hierarchical Dirichlet Process Generalized Linear Models (hdpGLM)&lt;/a&gt;&lt;/h3&gt;
 
-University of Chicago
+&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/hdpGLM_logo.png&#34; align=&#34;left&#34; width=&#34;150&#34; style=&#34;padding-right: 20px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;&lt;br&gt;The package implements the hierarchical Dirichlet process Generalized Linear Models proposed in the paper &lt;a href=&#34;https://doi.org/10.1017/pan.2019.13&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt; Modeling Context-Dependent Latent Effect Heterogeneity &lt;a&gt;. The model can be used to estimate latent heterogeneity in the marginal effect of GLM linear coefficients, cluster data points based on that latent heterogeneity, and investigate if &lt;a href=&#34;https://en.wikipedia.org/wiki/Simpson&#39;s_paradox&#34; target=&#34;_blank&#34;&gt; Simpson’s Paradox&lt;a&gt; occurs due to latent or omitted features. It also can be used with hierarchical data to estimate the effect of upper-level covariates on the latent heterogeneity in the effect of lower-level features.&lt;/div&gt;&lt;/p&gt;
 
-Autumn/2019
-&lt;span style=&#34;color:#66d9ef&#34;&gt;\end&lt;/span&gt;{center}
---------------------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;headline-2&#34;&gt;
-Course information
-&lt;/h1&gt;
-&lt;table&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Instructor:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://.diogoferrari.com&#34;&gt;Diogo Ferrari&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;e-mail:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;mailto:diogoferrari@uchicago.edu&#34;&gt;diogoferrari@uchicago.edu&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Office:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;5730 S. Woodlawn, Room 406&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Office-hours:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;Monday 15:00-17:00 (or by appointment)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;TA:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;TBA&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;strong&gt;Meeting day/time&lt;/strong&gt;  MWF 10:30-11:20
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-&lt;strong&gt;Location&lt;/strong&gt;: Stuart Hall 105
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;headline-3&#34;&gt;
-Description
-&lt;/h1&gt;
-&lt;p&gt;
-The goal of this course is to give students an overview of the theory and methods for data analyses using the Bayesian paradigm. Topics include: (1) foundations of Bayesian inference; (2) development of Bayesian models and prior choices; (3) analytical and simulation techniques for posterior estimation; (4) model choice and diagnostics; (5) sensitivity analysis, and; (6) introduction to Monte Carlo Markov Chain (MCMC) simulations. Students will also learn how to estimate and summarize Bayesian models using Bayesian statistical packages (R/JAGS/Bugs). The course will use working examples with real application of Bayesian analysis in social sciences. Prerequisites: Basic knowledge of probability (e.g., joint and conditional distributions, expectation, variance) and introductory-level experience with R or Python (Note: Open to Advanced Undergraduates with Instructor Permission)
-&lt;/p&gt;
-&lt;h1 id=&#34;headline-4&#34;&gt;
-Evaluation
-&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th class=&#34;align-right&#34;&gt;Total&lt;/th&gt;
-&lt;th&gt;Total weight&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Problem sets&lt;/td&gt;
-&lt;td class=&#34;align-right&#34;&gt;8&lt;/td&gt;
-&lt;td&gt;80%&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Final exam&lt;/td&gt;
-&lt;td class=&#34;align-right&#34;&gt;1&lt;/td&gt;
-&lt;td&gt;20%&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h1 id=&#34;headline-5&#34;&gt;
-Disability Service and Accomodation
-&lt;/h1&gt;
-&lt;p&gt;
-If you need any special accommodations, please provide your instructor with a copy of your Accommodation Determination Letter (provided to you by the Student Disability Services office) as soon as possible so that you may discuss with him/her how your accommodations may be implemented in this course.
-&lt;/p&gt;
-&lt;h1 id=&#34;headline-28&#34;&gt;
-Textbooks
-&lt;/h1&gt;
-&lt;h3 id=&#34;headline-29&#34;&gt;
-Required
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-Gill, J. (2014) Bayesian methods: a social and behavioral sciences approach: CRC press.&lt;br&gt;
-&lt;em&gt;Practical introduction of the concepts of Bayesian statistics with examples of application in social sciences.&lt;/em&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;headline-30&#34;&gt;
-Recommended
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-Gelman, A., Carlin, J. B., Stern, H. S., &amp;amp; Rubin, D. B.  (2014) Bayesian Data Analysis, Chapman &amp;amp; Hall/CRC Boca Raton, FL, USA.&lt;br&gt;
-&lt;em&gt;Called for many people &amp;#34;The Bible&amp;#34;, this book contains a comprehensive overview of many topics in Bayesian statistics.&lt;/em&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-Jackman, S. (2009)  Bayesian analysis for the social sciences , John Wiley &amp;amp; Sons.&lt;br&gt;
-&lt;em&gt;The book contains more advanced treatment of some topics in Bayesian analysis.&lt;/em&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-Kruschke, J. (2015) Doing bayesian data analysis: a tutorial with r, jags, and stan, Academic Press.&lt;br&gt;
-&lt;em&gt;This is an introduction-level book with many examples and illustrations of Bayesian analysis. It covers the computational side, and it is a useful tutorial-like approach for practical implementation of Bayesian models in JAGS.&lt;/em&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;headline-31&#34;&gt;
-Software
-&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-Team, R. C. (2018) R: a language and environment for statistical computing.&lt;br&gt;
-&lt;em&gt;Free statistical software available for download at &lt;a href=&#34;https://www.r-project.org/&#34;&gt;this&lt;/a&gt; website. The software is available for all main operation system (Linux, OS, Windows)&lt;/em&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-Plummer, M., Stukalov, A., &amp;amp; Denwood, M. (2018) Rjags: r api to jags.&lt;br&gt;
-&lt;em&gt;Free software for Bayesian analysis available for download at &lt;a href=&#34;https://sourceforge.net/projects/mcmc-jags/files/&#34;&gt;this&lt;/a&gt; website. The software is available for UNIX based operation system (Linux, OS).&lt;/em&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-Lunn, D., Jackson, C., Best, N., Thomas, A., &amp;amp; Spiegelhalter, D. (2012) The bugs book: a practical introduction to bayesian analysis, CRC press.&lt;br&gt;
-&lt;em&gt;Windows users can install the free windows based version called WinBUGS instead of JAGS, which is available for download at &lt;a href=&#34;https://www.mrc-bsu.cam.ac.uk/software/bugs/the-bugs-project-winbugs/&#34;&gt;this&lt;/a&gt; website&lt;/em&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-Plummer, M. (2017) Jags version 4.3.0 user manual.&lt;br&gt;
-&lt;em&gt;R package used to estimate Bayesian models using JAGS.&lt;/em&gt;
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;headline-32&#34;&gt;
-Academic Integrity
-&lt;/h1&gt;
-&lt;p&gt;
-The University of Chicago has a &lt;a href=&#34;https://studentmanual.sites.uchicago.edu/Policies#Honesty&#34;&gt;formal policy on academic honesty&lt;/a&gt; that you are expected to adhere to. Here are some guidelines we expect you to follow:
-&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;
-Courtesy, honesty, and respect should be shown by students toward faculty members, guest lecturers, administrative support staff, and fellow students. Similarly, students should expect faculty to treat them fairly, showing respect for their ideas and opinions and striving to help them achieve maximum benefits from their experience in the School.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-Academic dishonesty can encompass many activities, which includes plagiarism, cheating, fabrication, falsification of records or official documents, intentional misuse of equipment or materials (including library materials), and aiding and abetting the perpetration of such acts. One of the gravest academic dishonesty is plagiarism: knowingly handing in someone else&amp;#39;s work as your own, whether it be work done by another student in the class or available publicly on the Internet. This class has a zero tolerance policy for plagiarism.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-The preparation of solutions for problem sets, papers, and examinations, assigned on an individual basis, must represent each students own effort. Therefore:
-&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;
-You MUST NOT copy or use someone else&amp;#39;s work (with or without their permission) in your own solution. You have to write your own.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;
-DO NOT post your solutions to problem sets or exams in publicly-accessible websites, like pastebin, a public GitHub repository, GitHub gists, etc. While these tools may seem like convenient mechanisms for sharing code with an instructor/TA or with a project partner, they can also expose your code to other students in the class. If you do post your solution in a publicly-accessible location, and we find out about it outside of a plagiarism incident, you will just get a warning. However, if another student in the class uses code that you posted on such a site (even if you did not intend for that code to be used by someone else), you be considered an equally guilty party in a plagiarism offense, and will receive the exact same penalty as the student who used your code.
-&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://doi.org/10.1017/pan.2019.13&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;PDF&lt;/button&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/hdpGLM&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;a-href-publication-ferrari-2019-ceser-style-color-blue2-target-blank-cluster-estimated-standard-errors-in-r-ceser-a&#34;&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Cluster Estimated Standard Errors in R (ceser)&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/ceser_logo.png&#34; align=&#34;left&#34; width=&#34;150&#34; style=&#34;padding-right: 20px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;&lt;br&gt; (with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/emeriti/jjacksn.html&#34; target=_blank&gt;John Jackson&lt;a&gt;) The package implements the Cluster Estimated Standard Errors (CESE) method proposed by Jackson (2019) to compute clustered standard errors of linear coefficients in regression models with grouped data. The package is well integrated with standard R functions to estimate linear models (e.g., &lt;code&gt;lm()&lt;/code&gt;). CESE produces more conservative confidence intervals, outperform the classical clustered robust standard error (CRSE) method in various ways, and avoid CRSE downward bias and underestimation of the clustered standard errors. (see Jackson, J., (2019) Corrected standard errors with clustered data, Political Analysis, forthcoming)&lt;/p&gt;
+
+&lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;/files/ferrariYYYYceser.pdf&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px; border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;PDF&lt;/button&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/ceser&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://diogoferrari.github.io/ceser&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Doc&lt;/button&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://www.diogoferrari.com/ceser/articles/ceser.html&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Vignette&lt;/button&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;a-href-https-github-com-diogoferrari-occupar-style-color-blue2-target-blank-occupation-and-class-scheme-classification-in-r-occupar-a&#34;&gt;&lt;a href=&#34;https://github.com/DiogoFerrari/occupar&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Occupation and Class Scheme Classification in R (occupar)&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/occupar_logo.png&#34; align=&#34;left&#34; width=&#34;150&#34; style=&#34;padding-right: 20px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;&lt;br&gt; The package occupar (Occupation Classification in R) provides:
+(1) a handful of functions to convert between different versions of the International Standard Classification of Occupations (ISCO): ISCO-68, ISCO-88, ISCO-08; (2) a set of functions to compute class schemes (EGP, ISEI, ESeC, etc.) based on ISCO.
+The current package benefited from &lt;a href=&#34;http://www.harryganzeboom.nl/&#34; target=&#34;_blank&#34;&gt; Harry Ganzeboom’s&lt;a&gt; work of ISCO and class schemes.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/occupar&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;a-href-https-github-com-diogoferrari-eforensics-style-color-blue2-target-blank-election-forensics-package-eforensics-a&#34;&gt;&lt;a href=&#34;https://github.com/DiogoFerrari/eforensics&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Election Forensics Package (eforensics)&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/eforensics_logo.png&#34; align=&#34;left&#34; width=&#34;150&#34; style=&#34;padding-right: 20px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;&lt;br&gt; (with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/faculty/wmebane.html&#34; target=&#34;_blank&#34;&gt; Walter Mebane &lt;a&gt;) The package can be used to estimate probability of fraud in elections using Finite Mixture Models (Supported by NSF grant SES 1523355).
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/eforensics&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;a-href-https-github-com-diogoferrari-edar-style-color-blue2-target-blank-exploratory-data-analysis-in-r-edar-a&#34;&gt;&lt;a href=&#34;https://github.com/DiogoFerrari/edar&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Exploratory Data Analysis in R (edar)&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/edar_logo.png&#34; align=&#34;left&#34; width=&#34;150&#34; style=&#34;padding-right: 20px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;&lt;br&gt; A package that facilitates exploratory data analysis and visualization of model results, aligned with &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt; tidyverse &lt;a&gt; and &lt;a href=&#34;https://magrittr.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;pipe&lt;a&gt; coding philosophy.
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/edar&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://www.dropbox.com/s/aa6avx17kivqf8n/edar_vignette.pdf?dl=0&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Vignette&lt;/button&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 </description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-capp-30121/syllabus/</link>
+      <title>Teaching</title>
+      <link>https://DiogoFerrari.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-capp-30121/syllabus/</guid>
-      <description></description>
+      <guid>https://DiogoFerrari.github.io/teaching/</guid>
+      <description>&lt;hr /&gt;
+</description>
     </item>
     
   </channel>
