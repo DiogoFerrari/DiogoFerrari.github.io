@@ -57,10 +57,6 @@ Course information
 &lt;td&gt;&lt;strong&gt;Office-hours:&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;Monday 15:00-17:00 (or by appointment)&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;TA:&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;TBA&lt;/td&gt;
-&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;ul&gt;
@@ -95,7 +91,7 @@ Evaluation
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Problem sets&lt;/td&gt;
-&lt;td class=&#34;align-right&#34;&gt;8&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;4&lt;/td&gt;
 &lt;td&gt;80%&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -106,29 +102,22 @@ Evaluation
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h1 id=&#34;headline-5&#34;&gt;
-Schedule    
+Schedule
 &lt;/h1&gt;
-&lt;h3 id=&#34;headline-7&#34;&gt;
+&lt;h3 id=&#34;headline-8&#34;&gt;
 Calendar
 &lt;/h3&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th class=&#34;align-right&#34;&gt;&lt;/th&gt;
-&lt;th class=&#34;align-right&#34;&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&amp;lt;10&amp;gt;&lt;/th&gt;
+&lt;th class=&#34;align-right&#34;&gt;#&lt;/th&gt;
+&lt;th class=&#34;align-right&#34;&gt;Week&lt;/th&gt;
+&lt;th&gt;Day&lt;/th&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Assignment&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&#34;align-right&#34;&gt;#&lt;/td&gt;
-&lt;td class=&#34;align-right&#34;&gt;Week&lt;/td&gt;
-&lt;td&gt;Day&lt;/td&gt;
-&lt;td&gt;Topic&lt;/td&gt;
-&lt;td&gt;Assignment&lt;/td&gt;
-&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;1&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;1&lt;/td&gt;
@@ -169,7 +158,7 @@ Calendar
 &lt;td class=&#34;align-right&#34;&gt;2&lt;/td&gt;
 &lt;td&gt;F10/11&lt;/td&gt;
 &lt;td&gt;Prior Distribution (conjugate priors)&lt;/td&gt;
-&lt;td&gt;PS1 (ho)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
@@ -197,7 +186,7 @@ Calendar
 &lt;td class=&#34;align-right&#34;&gt;3&lt;/td&gt;
 &lt;td&gt;F10/18&lt;/td&gt;
 &lt;td&gt;Sensitivity and Prior perturbation analysis&lt;/td&gt;
-&lt;td&gt;PS2 (ho); &lt;strong&gt;PS1 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;PS1 (ho)&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
@@ -217,99 +206,127 @@ Calendar
 &lt;td class=&#34;align-right&#34;&gt;10&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;4&lt;/td&gt;
 &lt;td&gt;W10/23&lt;/td&gt;
-&lt;td&gt;Hierarchical Bayesian Models&lt;/td&gt;
+&lt;td&gt;MC methods&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;11&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;4&lt;/td&gt;
 &lt;td&gt;F10/25&lt;/td&gt;
-&lt;td&gt;MC methods&lt;/td&gt;
-&lt;td&gt;PS3 (ho); &lt;strong&gt;PS2 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;MC indirect sampling (RS)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Monte Carlo Methods&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;12&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;4&lt;/td&gt;
 &lt;td&gt;M10/28&lt;/td&gt;
-&lt;td&gt;MC indirect sampling (RS)&lt;/td&gt;
+&lt;td&gt;MC indirect sampling (ARS, IS)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;13&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;5&lt;/td&gt;
 &lt;td&gt;W10/30&lt;/td&gt;
-&lt;td&gt;MC indirect sampling (ARS, SIR, AIS)&lt;/td&gt;
+&lt;td&gt;MC indirect sampling (IS, AIS, wrap-up)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;14&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;5&lt;/td&gt;
 &lt;td&gt;F11/01&lt;/td&gt;
-&lt;td&gt;MC indirect sampling (SIR, AIS)&lt;/td&gt;
-&lt;td&gt;PS4 (ho); &lt;strong&gt;PS3 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;MCMC (Intuition, GBC, DBC)&lt;/td&gt;
+&lt;td&gt;PS2 (ho); &lt;strong&gt;PS1 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Monte Carlo Markov Chain Methods&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;15&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;5&lt;/td&gt;
 &lt;td&gt;M11/04&lt;/td&gt;
-&lt;td&gt;MCMC intro&lt;/td&gt;
+&lt;td&gt;MCMC (DBC and Metropolis-Hasting update)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;16&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;6&lt;/td&gt;
 &lt;td&gt;W11/06&lt;/td&gt;
-&lt;td&gt;MCMC (Metropolis-Hasting)&lt;/td&gt;
+&lt;td&gt;MCMC (Foundations of MCMC method)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;17&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;6&lt;/td&gt;
 &lt;td&gt;F11/08&lt;/td&gt;
-&lt;td&gt;MCMC (Metropolis-Hasting)&lt;/td&gt;
-&lt;td&gt;PS5 (ho); &lt;strong&gt;PS4 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;MCMC (MH Variants: Random Walk)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Various MCMC and Diagnostics&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;18&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;6&lt;/td&gt;
 &lt;td&gt;M11/11&lt;/td&gt;
-&lt;td&gt;MCMC (Metropolis-Hasting)&lt;/td&gt;
+&lt;td&gt;MCMC (MH Variants: Gibbs, Slice Sampler)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;19&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;7&lt;/td&gt;
 &lt;td&gt;W11/13&lt;/td&gt;
-&lt;td&gt;MCMC (Gibbs)&lt;/td&gt;
+&lt;td&gt;MCMC (Into Implementation)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;20&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;7&lt;/td&gt;
 &lt;td&gt;F11/15&lt;/td&gt;
-&lt;td&gt;MCMC (Gibbs)&lt;/td&gt;
-&lt;td&gt;PS6 (ho); &lt;strong&gt;PS5 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;MCMC (Implementation)&lt;/td&gt;
+&lt;td&gt;PS3 (ho); &lt;strong&gt;PS2 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
+&lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;Implementation&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;21&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;7&lt;/td&gt;
 &lt;td&gt;M11/18&lt;/td&gt;
-&lt;td&gt;MCMC (Hamiltonian Markov Chaim)&lt;/td&gt;
+&lt;td&gt;MCMC (Implementation)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;22&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;8&lt;/td&gt;
 &lt;td&gt;W11/20&lt;/td&gt;
-&lt;td&gt;MCMC (Hamiltonian Markov Chaim)&lt;/td&gt;
+&lt;td&gt;MCMC (Implementation)&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;23&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;8&lt;/td&gt;
 &lt;td&gt;F11/22&lt;/td&gt;
-&lt;td&gt;MCMC Wrap-up&lt;/td&gt;
-&lt;td&gt;PS7 (ho); &lt;strong&gt;PS6 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;MMCMC (diagnostics)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;&lt;/td&gt;
@@ -329,13 +346,13 @@ Calendar
 &lt;td class=&#34;align-right&#34;&gt;25&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;9&lt;/td&gt;
 &lt;td&gt;W11/27&lt;/td&gt;
-&lt;td&gt;Summaries of the posterior&lt;/td&gt;
-&lt;td&gt;PS8 (ho); &lt;strong&gt;PS7 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Model Choice and Predictive Analytics&lt;/td&gt;
+&lt;td&gt;PS4 (ho); &lt;strong&gt;PS3 (d)&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;26&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;9&lt;/td&gt;
-&lt;td&gt;F11/29&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;F11/29&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;No class: &lt;strong&gt;Thanksgiving Break&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -343,7 +360,7 @@ Calendar
 &lt;td class=&#34;align-right&#34;&gt;27&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;9&lt;/td&gt;
 &lt;td&gt;M12/02&lt;/td&gt;
-&lt;td&gt;Model Choice and Predictive Analytics&lt;/td&gt;
+&lt;td&gt;Hierarchical Bayesian Models&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -351,12 +368,12 @@ Calendar
 &lt;td class=&#34;align-right&#34;&gt;10&lt;/td&gt;
 &lt;td&gt;W12/04&lt;/td&gt;
 &lt;td&gt;Wrap-up&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;PS8 (d)&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;PS4 (d)&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td class=&#34;align-right&#34;&gt;29&lt;/td&gt;
 &lt;td class=&#34;align-right&#34;&gt;10&lt;/td&gt;
-&lt;td&gt;F12/06&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;F12/06&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;No class: &lt;strong&gt;College Reading Period&lt;/strong&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -381,10 +398,10 @@ d: due date
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;headline-41&#34;&gt;
+&lt;h1 id=&#34;headline-9&#34;&gt;
 Textbooks
 &lt;/h1&gt;
-&lt;h3 id=&#34;headline-42&#34;&gt;
+&lt;h3 id=&#34;headline-10&#34;&gt;
 Required
 &lt;/h3&gt;
 &lt;ul&gt;
@@ -395,14 +412,14 @@ Gill, J. (2014) Bayesian methods: a social and behavioral sciences approach: CRC
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;headline-43&#34;&gt;
+&lt;h3 id=&#34;headline-11&#34;&gt;
 Recommended
 &lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;
 Gelman, A., Carlin, J. B., Stern, H. S., &amp;amp; Rubin, D. B.  (2014) Bayesian Data Analysis, Chapman &amp;amp; Hall/CRC Boca Raton, FL, USA.&lt;br&gt;
-&lt;em&gt;Called for many people &amp;#34;The Bible&amp;#34;, this book contains a comprehensive overview of many topics in Bayesian statistics.&lt;/em&gt;
+&lt;em&gt;Called for many people uThe Bibleu, this book contains a comprehensive overview of many topics in Bayesian statistics.&lt;/em&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -418,7 +435,7 @@ Kruschke, J. (2015) Doing bayesian data analysis: a tutorial with r, jags, and s
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;headline-44&#34;&gt;
+&lt;h1 id=&#34;headline-12&#34;&gt;
 Software
 &lt;/h1&gt;
 &lt;ul&gt;
@@ -447,7 +464,7 @@ Plummer, M. (2017) Jags version 4.3.0 user manual.&lt;br&gt;
 &lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;headline-45&#34;&gt;
+&lt;h1 id=&#34;headline-13&#34;&gt;
 Diversity, Inclusion, and Disability Statement
 &lt;/h1&gt;
 &lt;p&gt;
@@ -479,7 +496,7 @@ Notify me of the issue through another source such as your preceptor, a trusted 
 &lt;p&gt;
 The University of Chicago is committed to diversity and rigorous inquiry from multiple perspectives. The MAPSS, CIR, and Computation programs share this commitment and seek to foster productive learning environments based upon inclusion, open communication, and mutual respect for a diverse range of identities, experiences, and positions. Any suggestions for how we might further such objectives both in and outside the classroom are appreciated and will be given serious consideration. Please share your suggestions or concerns with your instructor, your preceptor, or your program’s Diversity and Inclusion representatives: Darcy Heuring (MAPSS), Matthias Staisch (CIR), and Chad Cyrenne (Computation). You are also welcome and encouraged to contact the Faculty Director of your program.
 &lt;/p&gt;
-&lt;h1 id=&#34;headline-46&#34;&gt;
+&lt;h1 id=&#34;headline-14&#34;&gt;
 Academic Integrity
 &lt;/h1&gt;
 &lt;p&gt;
@@ -514,6 +531,257 @@ DO NOT post your solutions to problem sets or exams in publicly-accessible websi
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;
+\pagebreak
+&lt;/p&gt;
+&lt;h1 id=&#34;headline-15&#34;&gt;
+Scheduled readings
+&lt;/h1&gt;
+&lt;h2 id=&#34;headline-16&#34;&gt;
+Lecture 1: Introduction
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-17&#34;&gt;
+Suggested
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-18&#34;&gt;
+bibentry:fienberg2006did
+&lt;/h4&gt;
+&lt;h2 id=&#34;headline-19&#34;&gt;
+Lecture 2: Motivation for Bayesian Statistics
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-20&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-21&#34;&gt;
+bibentry:gill2014bayesian
+&lt;/h4&gt;
+&lt;h5 id=&#34;headline-22&#34;&gt;
+Ch 2.1: Purpose
+&lt;/h5&gt;
+&lt;h5 id=&#34;headline-23&#34;&gt;
+Ch 2.3: The Basic Bayesian Framework (only subsection 2.3.1)
+&lt;/h5&gt;
+&lt;h5 id=&#34;headline-24&#34;&gt;
+Ch 2.4: Bayesian &amp;#34;Learning&amp;#34;
+&lt;/h5&gt;
+&lt;h5 id=&#34;headline-25&#34;&gt;
+Ch 2.6: Bayesian versus Non-Bayesian Approaches
+&lt;/h5&gt;
+&lt;h2 id=&#34;headline-26&#34;&gt;
+Lecture 3: Prior Distribution: Preliminaries
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-27&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-28&#34;&gt;
+bibentry:gill2014bayesian
+&lt;/h4&gt;
+&lt;h5 id=&#34;headline-29&#34;&gt;
+Ch 2.5: Comments on Prior Distributions
+&lt;/h5&gt;
+&lt;h5 id=&#34;headline-30&#34;&gt;
+Ch 4.1: A Prior Discussion of Priors
+&lt;/h5&gt;
+&lt;h3 id=&#34;headline-31&#34;&gt;
+Suggested
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-32&#34;&gt;
+bibentry:wasserman-2006-frequestist
+&lt;/h4&gt;
+&lt;h2 id=&#34;headline-33&#34;&gt;
+Lecture 4, 5: Prior Distribution (conjugate priors)
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-34&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-35&#34;&gt;
+bibentry:gill2014bayesian  
+&lt;/h4&gt;
+&lt;h5 id=&#34;headline-36&#34;&gt;
+ch 4.3: Conjugate Priors (subsections 4.3.1-4.3.3)
+&lt;/h5&gt;
+&lt;h2 id=&#34;headline-37&#34;&gt;
+Lecture 6, 7: Prior Distribution
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-38&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-39&#34;&gt;
+bibentry:gill2014bayesian 
+&lt;/h4&gt;
+&lt;h5 id=&#34;headline-40&#34;&gt;
+Ch 4.3.3: Limitations of Conjugacy 
+&lt;/h5&gt;
+&lt;h5 id=&#34;headline-41&#34;&gt;
+Ch 4.4.2: Jeffreys Prior (all subsections)
+&lt;/h5&gt;
+&lt;h2 id=&#34;headline-42&#34;&gt;
+Lecture 8, 9: Sensitivity Analysis
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-43&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-44&#34;&gt;
+bibentry:gill2014bayesian 
+&lt;/h4&gt;
+&lt;h5 id=&#34;headline-45&#34;&gt;
+Ch 6.2.1 Global Sensitivity Analysis
+&lt;/h5&gt;
+&lt;h5 id=&#34;headline-46&#34;&gt;
+Ch 6.2.2 Local Sensitivity Analysis
+&lt;/h5&gt;
+&lt;h5 id=&#34;headline-47&#34;&gt;
+Ch 6.2.3 Global and Local Sensitivity Analysis with Recidivism Data
+&lt;/h5&gt;
+&lt;h2 id=&#34;headline-48&#34;&gt;
+Lecture 10: MC methods
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-49&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-50&#34;&gt;
+bibentry:gill2014bayesian 
+&lt;/h4&gt;
+&lt;h5 id=&#34;headline-51&#34;&gt;
+Ch 9.1 Background
+&lt;/h5&gt;
+&lt;h5 id=&#34;headline-52&#34;&gt;
+Ch 9.2 Basic Monte Carlo Integration
+&lt;/h5&gt;
+&lt;h3 id=&#34;headline-53&#34;&gt;
+Suggested
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-54&#34;&gt;
+bibentry:robert2011short
+&lt;/h4&gt;
+&lt;h2 id=&#34;headline-55&#34;&gt;
+Lecture 11: MC indirect sampling
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-56&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-57&#34;&gt;
+bibentry:gill2014bayesian 
+&lt;/h4&gt;
+&lt;h5 id=&#34;headline-58&#34;&gt;
+Ch 9.3 Rejection Sampling
+&lt;/h5&gt;
+&lt;h2 id=&#34;headline-59&#34;&gt;
+Lecture 12-13: MC ARS, IS, wrap-up
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-60&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-61&#34;&gt;
+TBA
+&lt;/h4&gt;
+&lt;h2 id=&#34;headline-62&#34;&gt;
+Lecture 14: MCMC Intuition
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-63&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-64&#34;&gt;
+bibentry:robert2011short
+&lt;/h4&gt;
+&lt;h2 id=&#34;headline-65&#34;&gt;
+Lecture 15: MCMC (DBC)
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-66&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-67&#34;&gt;
+bibentry:chib1995understanding
+&lt;/h4&gt;
+&lt;h3 id=&#34;headline-68&#34;&gt;
+Suggested
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-69&#34;&gt;
+bibentry:metropolis1953equation
+&lt;/h4&gt;
+&lt;h4 id=&#34;headline-70&#34;&gt;
+bibentry:hastings1970monte
+&lt;/h4&gt;
+&lt;h4 id=&#34;headline-71&#34;&gt;
+bibentry:geman1984stochastic
+&lt;/h4&gt;
+&lt;h4 id=&#34;headline-72&#34;&gt;
+bibentry:gelfand1990sampling
+&lt;/h4&gt;
+&lt;h2 id=&#34;headline-73&#34;&gt;
+Lecture 16: MCMC (Foundations)
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-74&#34;&gt;
+Suggested
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-75&#34;&gt;
+bibentry:mengersen1996rates
+&lt;/h4&gt;
+&lt;h2 id=&#34;headline-76&#34;&gt;
+Lecture 17-23: MCMC (HW, Gibbs, Implementation)
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-77&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-78&#34;&gt;
+TBA
+&lt;/h4&gt;
+&lt;h2 id=&#34;headline-79&#34;&gt;
+Lecture 24: Summaries of the Posterior
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-80&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-81&#34;&gt;
+bibentry:gill2014bayesian 
+&lt;/h4&gt;
+&lt;h5 id=&#34;headline-82&#34;&gt;
+Ch 2.3.2 Summarizing Posterior Distributions with Intervals
+&lt;/h5&gt;
+&lt;h5 id=&#34;headline-83&#34;&gt;
+Ch 2.3.3 Quantile Posterior Summaries
+&lt;/h5&gt;
+&lt;h2 id=&#34;headline-84&#34;&gt;
+Lecture 25: Model Choice
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-85&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-86&#34;&gt;
+TBA
+&lt;/h4&gt;
+&lt;h2 id=&#34;headline-87&#34;&gt;
+Lecture 26: &lt;strong&gt;No class - Thanksgiving&lt;/strong&gt;
+&lt;/h2&gt;
+&lt;h2 id=&#34;headline-88&#34;&gt;
+Lecture 27: Hierarchical Bayesian Models
+&lt;/h2&gt;
+&lt;h3 id=&#34;headline-89&#34;&gt;
+Required
+&lt;/h3&gt;
+&lt;h4 id=&#34;headline-90&#34;&gt;
+bibentry:gill2014bayesian 
+&lt;/h4&gt;
+&lt;h5 id=&#34;headline-91&#34;&gt;
+Ch 12.5 Essential Structure of the Bayesian Hierarchical Model 
+&lt;/h5&gt;
+&lt;h5 id=&#34;headline-92&#34;&gt;
+Ch 12.6 The General Role of Priors and Hyperpriors
+&lt;/h5&gt;
+&lt;h2 id=&#34;headline-93&#34;&gt;
+Lecture 28: &lt;strong&gt;Wrap-up&lt;/strong&gt;
+&lt;/h2&gt;
+&lt;h2 id=&#34;headline-94&#34;&gt;
+Lecture 29: &lt;strong&gt;No class - Reading Period&lt;/strong&gt;
+&lt;/h2&gt;
+&lt;h1 id=&#34;headline-95&#34;&gt;
+References&amp;#xa0;&amp;#xa0;&amp;#xa0;&lt;span class=&#34;tags&#34;&gt;&lt;span&gt;ignore&lt;/span&gt;&lt;/span&gt;
+&lt;/h1&gt;
+&lt;p&gt;
+\pagebreak
+bibliographystyle:apalike
+bibliography:~/Dropbox/CienciasSociais/references/references.bib
+&lt;/p&gt;
 </description>
     </item>
     
