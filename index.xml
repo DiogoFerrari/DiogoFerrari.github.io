@@ -30,15 +30,6 @@
     </item>
     
     <item>
-      <title></title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid></guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Posts</title>
       <link>https://DiogoFerrari.github.io/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,69 +53,50 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/software/</guid>
-      <description>
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;a-href-https-github-com-diogoferrari-hdpglm-style-color-blue2-target-blank-hierarchical-dirichlet-process-generalized-linear-models-hdpglm-a&#34;&gt;&lt;a href=&#34;https://github.com/DiogoFerrari/hdpGLM&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Hierarchical Dirichlet Process Generalized Linear Models (hdpGLM)&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/hdpGLM_logo.png&#34; align=&#34;left&#34; width=&#34;150&#34; style=&#34;padding-right: 20px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;&lt;br&gt;The package implements the hierarchical Dirichlet process Generalized Linear Models proposed in the paper &lt;a href=&#34;https://doi.org/10.1017/pan.2019.13&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt; Modeling Context-Dependent Latent Effect Heterogeneity &lt;a&gt;. The model can be used to estimate latent heterogeneity in the marginal effect of GLM linear coefficients, cluster data points based on that latent heterogeneity, and investigate if &lt;a href=&#34;https://en.wikipedia.org/wiki/Simpson&#39;s_paradox&#34; target=&#34;_blank&#34;&gt; Simpson’s Paradox&lt;a&gt; occurs due to latent or omitted features. It also can be used with hierarchical data to estimate the effect of upper-level covariates on the latent heterogeneity in the effect of lower-level features.&lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://doi.org/10.1017/pan.2019.13&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;PDF&lt;/button&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/hdpGLM&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;a-href-publication-ferrari-2019-ceser-style-color-blue2-target-blank-cluster-estimated-standard-errors-in-r-ceser-a&#34;&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Cluster Estimated Standard Errors in R (ceser)&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/ceser_logo.png&#34; align=&#34;left&#34; width=&#34;150&#34; style=&#34;padding-right: 20px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;&lt;br&gt; (with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/emeriti/jjacksn.html&#34; target=_blank&gt;John Jackson&lt;a&gt;) The package implements the Cluster Estimated Standard Errors (CESE) method proposed by Jackson (2019) to compute clustered standard errors of linear coefficients in regression models with grouped data. The package is well integrated with standard R functions to estimate linear models (e.g., &lt;code&gt;lm()&lt;/code&gt;). CESE produces more conservative confidence intervals, outperform the classical clustered robust standard error (CRSE) method in various ways, and avoid CRSE downward bias and underestimation of the clustered standard errors. (see Jackson, J., (2019) Corrected standard errors with clustered data, Political Analysis, forthcoming)&lt;/p&gt;
-
-&lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;/files/ferrariYYYYceser.pdf&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px; border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;PDF&lt;/button&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/ceser&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://diogoferrari.github.io/ceser&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Doc&lt;/button&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://www.diogoferrari.com/ceser/articles/ceser.html&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Vignette&lt;/button&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;a-href-https-github-com-diogoferrari-occupar-style-color-blue2-target-blank-occupation-and-class-scheme-classification-in-r-occupar-a&#34;&gt;&lt;a href=&#34;https://github.com/DiogoFerrari/occupar&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Occupation and Class Scheme Classification in R (occupar)&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/occupar_logo.png&#34; align=&#34;left&#34; width=&#34;150&#34; style=&#34;padding-right: 20px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;&lt;br&gt; The package occupar (Occupation Classification in R) provides:
+      <description>&lt;hr&gt;
+&lt;h3 id=&#34;a-hrefhttpsgithubcomdiogoferrarihdpglm-stylecolorblue2-targetblankhierarchical-dirichlet-process-generalized-linear-models-hdpglma&#34;&gt;&lt;!-- raw HTML omitted --&gt;Hierarchical Dirichlet Process Generalized Linear Models (hdpGLM)&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;The package implements the hierarchical Dirichlet process Generalized Linear Models proposed in the paper &lt;!-- raw HTML omitted --&gt; Modeling Context-Dependent Latent Effect Heterogeneity &lt;!-- raw HTML omitted --&gt;. The model can be used to estimate latent heterogeneity in the marginal effect of GLM linear coefficients, cluster data points based on that latent heterogeneity, and investigate if &lt;!-- raw HTML omitted --&gt; Simpson’s Paradox&lt;!-- raw HTML omitted --&gt; occurs due to latent or omitted features. It also can be used with hierarchical data to estimate the effect of upper-level covariates on the latent heterogeneity in the effect of lower-level features.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;PDF&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;GitHub&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;a-hrefpublicationferrari2019ceser-stylecolorblue2-targetblankcluster-estimated-standard-errors-in-r-cesera&#34;&gt;&lt;!-- raw HTML omitted --&gt;Cluster Estimated Standard Errors in R (ceser)&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; (with &lt;!-- raw HTML omitted --&gt;John Jackson&lt;!-- raw HTML omitted --&gt;) The package implements the Cluster Estimated Standard Errors (CESE) method proposed by Jackson (2019) to compute clustered standard errors of linear coefficients in regression models with grouped data. The package is well integrated with standard R functions to estimate linear models (e.g., &lt;code&gt;lm()&lt;/code&gt;). CESE produces more conservative confidence intervals, outperform the classical clustered robust standard error (CRSE) method in various ways, and avoid CRSE downward bias and underestimation of the clustered standard errors. (see Jackson, J., (2019) Corrected standard errors with clustered data, Political Analysis, forthcoming)&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;PDF&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;GitHub&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;Doc&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;Vignette&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;a-hrefhttpsgithubcomdiogoferrarioccupar-stylecolorblue2-targetblankoccupation-and-class-scheme-classification-in-r-occupara&#34;&gt;&lt;!-- raw HTML omitted --&gt;Occupation and Class Scheme Classification in R (occupar)&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; The package occupar (Occupation Classification in R) provides:
 (1) a handful of functions to convert between different versions of the International Standard Classification of Occupations (ISCO): ISCO-68, ISCO-88, ISCO-08; (2) a set of functions to compute class schemes (EGP, ISEI, ESeC, etc.) based on ISCO.
-The current package benefited from &lt;a href=&#34;http://www.harryganzeboom.nl/&#34; target=&#34;_blank&#34;&gt; Harry Ganzeboom’s&lt;a&gt; work of ISCO and class schemes.
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/occupar&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;a-href-https-github-com-diogoferrari-eforensics-style-color-blue2-target-blank-election-forensics-package-eforensics-a&#34;&gt;&lt;a href=&#34;https://github.com/DiogoFerrari/eforensics&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Election Forensics Package (eforensics)&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/eforensics_logo.png&#34; align=&#34;left&#34; width=&#34;150&#34; style=&#34;padding-right: 20px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;&lt;br&gt; (with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/faculty/wmebane.html&#34; target=&#34;_blank&#34;&gt; Walter Mebane &lt;a&gt;) The package can be used to estimate probability of fraud in elections using Finite Mixture Models (Supported by NSF grant SES 1523355).
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/eforensics&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;a-href-https-github-com-diogoferrari-edar-style-color-blue2-target-blank-exploratory-data-analysis-in-r-edar-a&#34;&gt;&lt;a href=&#34;https://github.com/DiogoFerrari/edar&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Exploratory Data Analysis in R (edar)&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/edar_logo.png&#34; align=&#34;left&#34; width=&#34;150&#34; style=&#34;padding-right: 20px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;&lt;br&gt; A package that facilitates exploratory data analysis and visualization of model results, aligned with &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt; tidyverse &lt;a&gt; and &lt;a href=&#34;https://magrittr.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;pipe&lt;a&gt; coding philosophy.
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/edar&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://www.dropbox.com/s/aa6avx17kivqf8n/edar_vignette.pdf?dl=0&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Vignette&lt;/button&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
+The current package benefited from &lt;!-- raw HTML omitted --&gt; Harry Ganzeboom’s&lt;!-- raw HTML omitted --&gt; work of ISCO and class schemes.
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;GitHub&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;a-hrefhttpsgithubcomdiogoferrarieforensics-stylecolorblue2-targetblankelection-forensics-package-eforensicsa&#34;&gt;&lt;!-- raw HTML omitted --&gt;Election Forensics Package (eforensics)&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; (with &lt;!-- raw HTML omitted --&gt; Walter Mebane &lt;!-- raw HTML omitted --&gt;) The package can be used to estimate probability of fraud in elections using Finite Mixture Models (Supported by NSF grant SES 1523355).
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;GitHub&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;a-hrefhttpsgithubcomdiogoferrariedar-stylecolorblue2-targetblankexploratory-data-analysis-in-r-edara&#34;&gt;&lt;!-- raw HTML omitted --&gt;Exploratory Data Analysis in R (edar)&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; A package that facilitates exploratory data analysis and visualization of model results, aligned with &lt;!-- raw HTML omitted --&gt; tidyverse &lt;!-- raw HTML omitted --&gt; and &lt;!-- raw HTML omitted --&gt;pipe&lt;!-- raw HTML omitted --&gt; coding philosophy.
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;GitHub&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;Vignette&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;hr&gt;
 </description>
     </item>
     
@@ -134,7 +106,7 @@ The current package benefited from &lt;a href=&#34;http://www.harryganzeboom.nl/
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/teaching/</guid>
-      <description>&lt;hr /&gt;
+      <description>&lt;hr&gt;
 </description>
     </item>
     
