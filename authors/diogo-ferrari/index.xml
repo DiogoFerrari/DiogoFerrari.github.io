@@ -6,10 +6,28 @@
     <description>Recent content on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jul 2019 23:06:47 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/authors/diogo-ferrari/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modeling Context-dependent Latent Effect Heterogeneity</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2020-modeling/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2020-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments in Positive Empirical Models of Election Frauds</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</link>
+      <pubDate>Wed, 04 Dec 2019 23:17:51 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Perceptions, Political Behavior, Polarization, and Welfare Attitudes (with Rob Franzese)</title>
@@ -112,15 +130,6 @@
     </item>
     
     <item>
-      <title>Modeling Context-dependent Latent Effect Heterogeneity</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/</link>
-      <pubDate>Mon, 08 Jul 2019 21:43:28 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-modeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Unsupervised Learning Methods and FMM for Election Forensics (with Walter Mebane)</title>
       <link>https://DiogoFerrari.github.io/research/eforensics/</link>
       <pubDate>Sat, 01 Jun 2019 23:18:51 -0300</pubDate>
@@ -162,6 +171,24 @@
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-dimensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments in Positive Empirical Models of Election Frauds</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-developments/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-developments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replication Data for: Modeling Context-Dependent Latent Effect Heterogeneity</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-replicationmodeling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-replicationmodeling/</guid>
       <description></description>
     </item>
     
