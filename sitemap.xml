@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/publication_types/2/</loc>
+    <loc>https://DiogoFerrari.github.io/publication_types/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,12 +53,12 @@
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/authors/diogo-ferrari/</loc>
+    <loc>https://DiogoFerrari.github.io/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/</loc>
+    <loc>https://DiogoFerrari.github.io/authors/diogo-ferrari/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,12 +103,12 @@
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/categories/comparative-politics/</loc>
+    <loc>https://DiogoFerrari.github.io/tags/comparative-politics/</loc>
     <lastmod>2019-07-21T23:18:51-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/tags/comparative-politics/</loc>
+    <loc>https://DiogoFerrari.github.io/categories/comparative-politics/</loc>
     <lastmod>2019-07-21T23:18:51-03:00</lastmod>
   </url>
   
@@ -138,12 +138,12 @@
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/tags/political-methodology/</loc>
+    <loc>https://DiogoFerrari.github.io/categories/political-methodology/</loc>
     <lastmod>2019-07-21T23:18:51-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/categories/political-methodology/</loc>
+    <loc>https://DiogoFerrari.github.io/tags/political-methodology/</loc>
     <lastmod>2019-07-21T23:18:51-03:00</lastmod>
   </url>
   
@@ -209,6 +209,11 @@
   
   <url>
     <loc>https://DiogoFerrari.github.io/authors/john-jackson/</loc>
+    <lastmod>2019-07-10T03:08:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DiogoFerrari.github.io/publication_types/2/</loc>
     <lastmod>2019-07-10T03:08:17+00:00</lastmod>
   </url>
   
@@ -350,11 +355,6 @@
   <url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2017-centralization/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/publication_types/1/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
