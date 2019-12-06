@@ -16,8 +16,10 @@
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;See &lt;!-- raw HTML omitted --&gt;course webpage&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;p align=&#34;justify&#34;&gt;&lt;font size=&#34;3&#34;&gt;
+The goal of this course is to give students an overview of the theory and methods for data analyses using the Bayesian paradigm. Topics include: (1) foundations of Bayesian inference; (2) development of Bayesian models and prior choices; (3) analytical and simulation techniques for posterior estimation; (4) model choice and diagnostics; (5) sensitivity analysis, and; (6) introduction to Monte Carlo Markov Chain (MCMC) simulations. Students will also learn how to estimate and summarize Bayesian models using Bayesian statistical packages (R/JAGS/Bugs). The course will use working examples with real application of Bayesian analysis in social sciences. Prerequisites: Basic knowledge of probability (e.g., joint and conditional distributions, expectation, variance) and introductory-level experience with R or Python (Note: Open to Advanced Undergraduates with Instructor Permission)
+&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://github.com/uchicago-courses/MACS-30301-F19&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;course webpage&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -59,7 +61,7 @@ See official webpage &lt;a href=&#34;https://classes.cs.uchicago.edu/archive/201
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/teaching/2015-fall-umich-ps381/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Syllabus&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/files/teaching-PS381-2015-umich.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -69,7 +71,7 @@ See official webpage &lt;a href=&#34;https://classes.cs.uchicago.edu/archive/201
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/teaching/2015-winter-umich-ps699/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Syllabus&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/files/syllabus-ps699-winter2015.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -79,7 +81,7 @@ See official webpage &lt;a href=&#34;https://classes.cs.uchicago.edu/archive/201
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/teaching/2014-fall-umich-ps599/</guid>
-      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Syllabus&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/files/ps599_syl_v2.pdf&#34; target=&#34;_blank&#34;&gt;Syllabus&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

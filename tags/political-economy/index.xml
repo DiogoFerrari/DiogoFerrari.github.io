@@ -17,8 +17,8 @@
       <pubDate>Sat, 20 Jul 2019 23:06:47 -0300</pubDate>
       
       <guid>https://DiogoFerrari.github.io/research/perceptions/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;div align=&#34;justify&#34;&gt;
+&lt;img src=&#34;https://DiogoFerrari.github.io/img/populism.jpg&#34; align=&#34;right&#34; width=&#34;400&#34; style=&#34;padding-left: 30px;&#34;&gt;
 &lt;p&gt;In democratic, multicultural, and pluralistic modern societies in which a variety of political views coexist and are freely expressed in social media, news, and party discourses, people can feel that their world view and lifestyle are threatened by political opinions that are different from theirs. Increasing tension can lead to radicalization, extremism in political attitudes, passionate partisanship, and entrenchment of groups in different poles of the political and ideological spectrum. This project investigates those trends from two perspectives.&lt;/p&gt;
 &lt;p&gt;First, the project investigates how individuals&amp;rsquo; material conditions are connected to their perceptions about the socioeconomic environment, including the state of the economy, unemployment, and other social groups, and how those perceptions are connected, by its turn, to political preferences.&lt;/p&gt;
 &lt;p&gt;Second, political leaders can take advantage of tensions in voters&amp;rsquo; preferences to gain electoral support. We use unsupervised learning methods to investigate latent subpopulations that are more easily targeted by those politicians. Ultimately, we seek to understand why socioeconomic-position-dependent perceptions about the socioeconomic environment make some individuals but not others more susceptible to certain populist &amp;lsquo;otherizing&amp;rsquo; appeals.&lt;/p&gt;
