@@ -3,46 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-capp-30121/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/teaching/2019-spring-umich-ps383/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/teaching/2019-winter-umich-ps383/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/teaching/2015-fall-umich-ps381/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/teaching/2015-winter-umich-ps699/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/teaching/2014-fall-umich-ps599/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/teaching/2011-usp-briv/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://DiogoFerrari.github.io/publication_types/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -78,6 +38,21 @@
   </url>
   
   <url>
+    <loc>https://DiogoFerrari.github.io/publication_types/6/</loc>
+    <lastmod>2019-12-12T02:30:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2019-hdphlm/</loc>
+    <lastmod>2019-12-12T02:30:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2019-cognition/</loc>
+    <lastmod>2019-12-12T02:30:08+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://DiogoFerrari.github.io/publication_types/3/</loc>
     <lastmod>2019-12-04T23:17:51+00:00</lastmod>
   </url>
@@ -93,6 +68,11 @@
   </url>
   
   <url>
+    <loc>https://DiogoFerrari.github.io/research/npb/</loc>
+    <lastmod>2019-07-21T23:18:51-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://DiogoFerrari.github.io/tags/bayesian-models/</loc>
     <lastmod>2019-07-21T23:18:51-03:00</lastmod>
   </url>
@@ -103,12 +83,12 @@
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/categories/comparative-politics/</loc>
+    <loc>https://DiogoFerrari.github.io/tags/comparative-politics/</loc>
     <lastmod>2019-07-21T23:18:51-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/tags/comparative-politics/</loc>
+    <loc>https://DiogoFerrari.github.io/categories/comparative-politics/</loc>
     <lastmod>2019-07-21T23:18:51-03:00</lastmod>
   </url>
   
@@ -124,11 +104,6 @@
   
   <url>
     <loc>https://DiogoFerrari.github.io/tags/machine-learning/</loc>
-    <lastmod>2019-07-21T23:18:51-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/research/npb/</loc>
     <lastmod>2019-07-21T23:18:51-03:00</lastmod>
   </url>
   
@@ -160,31 +135,6 @@
   <url>
     <loc>https://DiogoFerrari.github.io/tags/unsupervised-learning/</loc>
     <lastmod>2019-07-21T23:18:51-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/authors/robert-franzese/</loc>
-    <lastmod>2019-07-20T23:06:47-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/tags/perceptions/</loc>
-    <lastmod>2019-07-20T23:06:47-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/research/perceptions/</loc>
-    <lastmod>2019-07-20T23:06:47-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/tags/political-economy/</loc>
-    <lastmod>2019-07-20T23:06:47-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/publication_types/6/</loc>
-    <lastmod>2019-07-20T03:08:17+00:00</lastmod>
   </url>
   
   <url>
@@ -268,6 +218,11 @@
   </url>
   
   <url>
+    <loc>https://DiogoFerrari.github.io/research/eforensics/</loc>
+    <lastmod>2019-06-01T23:18:51-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://DiogoFerrari.github.io/tags/election-forensics/</loc>
     <lastmod>2019-06-01T23:18:51-03:00</lastmod>
   </url>
@@ -279,11 +234,6 @@
   
   <url>
     <loc>https://DiogoFerrari.github.io/authors/patrick-wu/</loc>
-    <lastmod>2019-06-01T23:18:51-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/research/eforensics/</loc>
     <lastmod>2019-06-01T23:18:51-03:00</lastmod>
   </url>
   
@@ -422,12 +372,7 @@
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-capp-30121/syllabus/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/teaching/2019-fall-uchicago-intro-bayesian/syllabus/</loc>
+    <loc>https://DiogoFerrari.github.io/authors/robert-franzese/</loc>
   </url>
   
   <url>

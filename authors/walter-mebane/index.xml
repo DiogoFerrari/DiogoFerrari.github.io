@@ -12,15 +12,16 @@
     
     
     <item>
-      <title>Unsupervised Learning Methods and FMM for Election Forensics (with Walter Mebane)</title>
+      <title></title>
       <link>https://DiogoFerrari.github.io/research/eforensics/</link>
       <pubDate>Sat, 01 Jun 2019 23:18:51 -0300</pubDate>
       
       <guid>https://DiogoFerrari.github.io/research/eforensics/</guid>
-      <description> &lt;div align=&#34;justify&#34;&gt;
+      <description>&lt;h2 id=&#34;h2-stylecolorblue-unsupervised-learning-methods-and-fmm-for-election-forensics-with-walter-mebane&#34;&gt;&lt;h2 style=&#34;color:blue;&#34;&gt; Unsupervised Learning Methods and FMM for Election Forensics (with Walter Mebane)&lt;/h2&gt;
+ &lt;div align=&#34;justify&#34;&gt;
 &lt;img src=&#34;https://DiogoFerrari.github.io/img/eforensics-distr.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt; 
 Elections are one of the cornerstones of modern democracies. *Election forensics* is a subarea of Political Science that uses statistical methods to investigate frauds in election.
-&lt;p&gt;Frauds are by their very nature concealed phenonema. The perpetrators don&#39;t want to reveal their act and want to avoid leaving any indication of manipulaiton of the results. This NFS-funded project, with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/faculty/wmebane.html&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Walter Mebane&lt;/a&gt; (PA), proposes some unsupervised learning methods and a series of finite mixture models to estimate the probability of fraud in elections using election data.&lt;/p&gt;
+&lt;p&gt;Frauds are by their very nature concealed phenonema. The perpetrators don&amp;rsquo;t want to reveal their act and want to avoid leaving any indication of manipulaiton of the results. This NFS-funded project, with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/faculty/wmebane.html&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Walter Mebane&lt;/a&gt; (PA), proposes some unsupervised learning methods and a series of finite mixture models to estimate the probability of fraud in elections using election data.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Some related papers:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

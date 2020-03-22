@@ -21,31 +21,30 @@
     </item>
     
     <item>
+      <title>Hierarchical Dirichlet Process Generalized Linear Models in R (hdpGLM)</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-hdphlm/</link>
+      <pubDate>Thu, 12 Dec 2019 02:30:08 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-hdphlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Cognition, Perceptions, and Welfare Policy Preferences</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2019-cognition/</link>
+      <pubDate>Thu, 12 Dec 2019 02:30:08 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-cognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Developments in Positive Empirical Models of Election Frauds</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</link>
       <pubDate>Wed, 04 Dec 2019 23:17:51 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Perceptions, Political Behavior, Polarization, and Welfare Attitudes (with Rob Franzese)</title>
-      <link>https://DiogoFerrari.github.io/research/perceptions/</link>
-      <pubDate>Sat, 20 Jul 2019 23:06:47 -0300</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/research/perceptions/</guid>
-      <description>&lt;div align=&#34;justify&#34;&gt;
-&lt;img src=&#34;https://DiogoFerrari.github.io/img/populism.jpg&#34; align=&#34;right&#34; width=&#34;400&#34; style=&#34;padding-left: 30px;&#34;&gt;
-&lt;p&gt;In democratic, multicultural, and pluralistic modern societies in which a variety of political views coexist and are freely expressed in social media, news, and party discourses, people can feel that their world view and lifestyle are threatened by political opinions that are different from theirs. Increasing tension can lead to radicalization, extremism in political attitudes, passionate partisanship, and entrenchment of groups in different poles of the political and ideological spectrum. This project investigates those trends from two perspectives.&lt;/p&gt;
-&lt;p&gt;First, the project investigates how individuals&amp;rsquo; material conditions are connected to their perceptions about the socioeconomic environment, including the state of the economy, unemployment, and other social groups, and how those perceptions are connected, by its turn, to political preferences.&lt;/p&gt;
-&lt;p&gt;Second, political leaders can take advantage of tensions in voters&amp;rsquo; preferences to gain electoral support. We use unsupervised learning methods to investigate latent subpopulations that are more easily targeted by those politicians. Ultimately, we seek to understand why socioeconomic-position-dependent perceptions about the socioeconomic environment make some individuals but not others more susceptible to certain populist &amp;lsquo;otherizing&amp;rsquo; appeals.&lt;/p&gt;
-&lt;p&gt;Here is some current work in progress:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Perceptions and Polarization of Public Opinion&lt;/li&gt;
-&lt;li&gt;Latent Polarization in Welfare Attitudes in OECD countries.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
     <item>
@@ -130,15 +129,16 @@
     </item>
     
     <item>
-      <title>Unsupervised Learning Methods and FMM for Election Forensics (with Walter Mebane)</title>
+      <title></title>
       <link>https://DiogoFerrari.github.io/research/eforensics/</link>
       <pubDate>Sat, 01 Jun 2019 23:18:51 -0300</pubDate>
       
       <guid>https://DiogoFerrari.github.io/research/eforensics/</guid>
-      <description> &lt;div align=&#34;justify&#34;&gt;
+      <description>&lt;h2 id=&#34;h2-stylecolorblue-unsupervised-learning-methods-and-fmm-for-election-forensics-with-walter-mebane&#34;&gt;&lt;h2 style=&#34;color:blue;&#34;&gt; Unsupervised Learning Methods and FMM for Election Forensics (with Walter Mebane)&lt;/h2&gt;
+ &lt;div align=&#34;justify&#34;&gt;
 &lt;img src=&#34;https://DiogoFerrari.github.io/img/eforensics-distr.png&#34; align=&#34;left&#34; width=&#34;300&#34; style=&#34;padding-right: 10px;&#34;&gt; 
 Elections are one of the cornerstones of modern democracies. *Election forensics* is a subarea of Political Science that uses statistical methods to investigate frauds in election.
-&lt;p&gt;Frauds are by their very nature concealed phenonema. The perpetrators don&#39;t want to reveal their act and want to avoid leaving any indication of manipulaiton of the results. This NFS-funded project, with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/faculty/wmebane.html&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Walter Mebane&lt;/a&gt; (PA), proposes some unsupervised learning methods and a series of finite mixture models to estimate the probability of fraud in elections using election data.&lt;/p&gt;
+&lt;p&gt;Frauds are by their very nature concealed phenonema. The perpetrators don&amp;rsquo;t want to reveal their act and want to avoid leaving any indication of manipulaiton of the results. This NFS-funded project, with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/faculty/wmebane.html&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Walter Mebane&lt;/a&gt; (PA), proposes some unsupervised learning methods and a series of finite mixture models to estimate the probability of fraud in elections using election data.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Some related papers:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
