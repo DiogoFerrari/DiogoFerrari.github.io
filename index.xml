@@ -176,8 +176,10 @@ As part of this project, two nation-wide surveys and one survey experiment have 
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/edar&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://www.dropbox.com/s/aa6avx17kivqf8n/edar_vignette.pdf?dl=0&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Vignette&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/edar&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;&lt;/p&gt;
+&lt;!--
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://www.dropbox.com/s/aa6avx17kivqf8n/edar_vignette.pdf?dl=0&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Vignette&lt;/button&gt;
+--&gt;
 &lt;hr style=&#34;height:3px; background: darkblue&#34;&gt; &lt;! –– --------------------------------------------------------------------------- ––&gt;
 </description>
     </item>
