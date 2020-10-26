@@ -105,7 +105,9 @@ As part of this project, two nation-wide surveys and one survey experiment have 
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://doi.org/10.1017/pan.2019.13&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;PDF&lt;/button&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/hdpGLM&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;&lt;/p&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/hdpGLM&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://diogoferrari.github.io/hdpGLM&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Documentation&lt;/button&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://www.diogoferrari.com/hdpGLM/articles/hdpGLM.html&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Vignette&lt;/button&gt;&lt;/p&gt;
 &lt;hr style=&#34;height:3px; background: darkblue&#34;&gt; &lt;! –– --------------------------------------------------------------------------- ––&gt;
 &lt;h4 id=&#34;cluster-estimated-standard-errors-in-r-ceserpublicationferrari-2019-ceser&#34;&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/&#34;&gt;Cluster Estimated Standard Errors in R (ceser)&lt;/a&gt;&lt;/h4&gt;
 &lt;table&gt;
