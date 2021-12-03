@@ -28,6 +28,16 @@
   </url>
   
   <url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2021-material/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2021-perceptions/</loc>
+    <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://DiogoFerrari.github.io/publication_types/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
   </url>
@@ -35,6 +45,16 @@
   <url>
     <loc>https://DiogoFerrari.github.io/publication/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2021-qual/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2021-ceser/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -158,16 +178,6 @@
   </url>
   
   <url>
-    <loc>https://DiogoFerrari.github.io/authors/john-jackson/</loc>
-    <lastmod>2019-07-10T03:08:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/publication_types/2/</loc>
-    <lastmod>2019-07-10T03:08:17+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://DiogoFerrari.github.io/publication_types/7/</loc>
     <lastmod>2019-07-10T03:08:17+00:00</lastmod>
   </url>
@@ -179,11 +189,6 @@
   
   <url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2019-adjusting/</loc>
-    <lastmod>2019-07-10T03:08:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DiogoFerrari.github.io/publication/ferrari-2019-ceser/</loc>
     <lastmod>2019-07-10T03:08:17+00:00</lastmod>
   </url>
   
@@ -369,6 +374,10 @@
   
   <url>
     <loc>https://DiogoFerrari.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://DiogoFerrari.github.io/authors/john-jackson/</loc>
   </url>
   
   <url>
