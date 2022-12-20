@@ -6,7 +6,7 @@
     <description>Recent content on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Publications</title>
       <link>https://DiogoFerrari.github.io/publication/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/publication/</guid>
       <description></description>
@@ -27,6 +27,12 @@
       
       <guid>https://DiogoFerrari.github.io/research/</guid>
       <description>&lt;hr style=&#34;height:3px; background: darkblue&#34;&gt; &lt;! –– --------------------------------------------------------------------------- ––&gt;
+&lt;h3 id=&#34;support-for-right-wing-populism-in-comparative-perspectiveresearchcpb-populism&#34;&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/research/cpb-populism/&#34;&gt;Support for Right-wing Populism in Comparative Perspective&lt;/a&gt;&lt;/h3&gt;
+&lt;div align=&#34;justify&#34;&gt;
+&lt;p&gt;Funded by the
+&lt;a href=&#34;https://www.hellmanfellows.org/&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Hellman Fellows Program&lt;/a&gt;, this project seeks to disentangle how much the popular appeal of populist leaders is attributable to their attack on the current political institutions and establishment as opposed to their far-right, conservative, and otherizing ideology. The project involves large-scale survey experiments conducted in different nations. One of the goals is to investigate if the electoral support for anti-establishment positions, and the danger it represents to liberal democratic institutions, can change as a function of the context, party system, and political or economic crises.&lt;/p&gt;
+&lt;/div&gt;
+&lt;hr style=&#34;height:3px; background: darkblue&#34;&gt; &lt;! –– --------------------------------------------------------------------------- ––&gt;
 &lt;h3 id=&#34;modeling-latent-effect-heterogeneityresearchnpb&#34;&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/research/npb/&#34;&gt;Modeling Latent Effect Heterogeneity&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;https://DiogoFerrari.github.io/img/simpsons-paradox3.png&#34; align=&#34;right&#34;  width=&#34;500&#34; style=&#34;padding-right: 35px;&#34;&gt; &lt;div align=&#34;justify&#34;&gt;This project seeks to develop semi-parametric Bayesian regression models to estimate latent heterogeneity in the effect of treatment variables and/or observed covariates. In generalized linear models, omitting interactions can lead to latent occurrences &lt;a href=&#34;https://en.wikipedia.org/wiki/Simpson%27s_paradox&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Simpson&amp;rsquo;s Paradox&lt;/a&gt;, which is a long-standing problem in statistical analysis in general and in the social sciences in particular. Simpson&amp;rsquo;s paradox refers to the possibility that an effect found when data are aggregated is entirely different or even reversed when data are separated and analyzed in groups. If these groups are latent, classical empirical approaches (GLM, mixed models, etc.) are not able to detect and deal with them, meaning that Simpson&amp;rsquo;s Paradox goes unnoticed by the researcher. In practice, it means that a researcher can conclude that an effect is positive when, in fact, it is positive only for a subgroup of the population but negative for another subgroup. I have used these models to study the latent structure of attitudes toward welfare policies, minority groups, and support for populism in the USA and OECD countries. I show that there is a hidden polarization among the observed socioeconomic groups in some countries but not others. My research indicates that one side effect of welfare policies in highly unequal societies with fragmented party systems is the existence of latent polarization in welfare policy preferences among individuals with similar observed socioeconomic characteristics. &lt;/div&gt;&lt;/p&gt;
 &lt;!--
@@ -54,13 +60,6 @@ for page in new blank tab
 &lt;div align=&#34;justify&#34;&gt;
 As part of this project, two nation-wide surveys and one survey experiment have already been conducted in Brazil in collaboration with &lt;a href=&#34;http://dcp.fflch.usp.br/dcp/index.php/docentes/marta-arretche&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Profa. Marta Arretche&lt;/a&gt;, &lt;a href=&#34;https://www.unifesp.br/campus/gua/docentes-ciencias-sociais/202-rogerio-schlegel&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Prof. Rogerio Schlegel&lt;/a&gt;, and the &lt;a href=&#34;http://centrodametropole.fflch.usp.br/en&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Center for Metropolitan Studies (CEM)&lt;/a&gt;.
 &lt;/div&gt;
-&lt;hr style=&#34;height:3px; background: darkblue&#34;&gt; &lt;! –– --------------------------------------------------------------------------- ––&gt;
-&lt;h3 id=&#34;unsupervised-learning-methods-and-fmm-for-election-forensics-with-walter-mebaneresearcheforensics&#34;&gt;&lt;a href=&#34;https://DiogoFerrari.github.io/research/eforensics/&#34;&gt;Unsupervised Learning Methods and FMM for Election Forensics (with Walter Mebane)&lt;/a&gt;&lt;/h3&gt;
-&lt;img src=&#34;https://DiogoFerrari.github.io/img/eforensics-distr.png&#34; align=&#34;left&#34; width=&#34;200&#34; style=&#34;padding-right: 20px;&#34;&gt; 
-&lt;div align=&#34;justify&#34;&gt;Elections are one of the cornerstones of modern democracies. *Election forensics* is a subarea of Political Science that uses statistical methods to investigate frauds in election.
-&lt;p&gt;Frauds are by their very nature concealed phenonema. The perpetrators don&amp;rsquo;t want to reveal their act and want to avoid leaving any indication of manipulaiton of the results. This NFS-funded project, with &lt;a href=&#34;https://lsa.umich.edu/polisci/people/faculty/wmebane.html&#34; style=&#34;color:blue2&#34; target=&#34;_blank&#34;&gt;Walter Mebane&lt;/a&gt; (PA), proposes some unsupervised learning methods and a series of finite mixture models to estimate the probability of fraud in elections using election data.&lt;/p&gt;
-&lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;/research/eforensics/&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Details&lt;/button&gt;&lt;/p&gt;
-&lt;hr style=&#34;height:3px; background: darkblue&#34;&gt; &lt;! –– --------------------------------------------------------------------------- ––&gt;
 </description>
     </item>
     
@@ -217,18 +216,82 @@ As part of this project, two nation-wide surveys and one survey experiment have 
       <guid>https://DiogoFerrari.github.io/teaching/</guid>
       <description>&lt;hr&gt;
 &lt;h3 id=&#34;graduate&#34;&gt;Graduate&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Political Behavior and Computational Social Science (University of Chicago - 2020/Spring)&lt;/li&gt;
-&lt;li&gt;Machine Learning for Political Analysis (University of Chicago - 2020/Spring)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://classes.cs.uchicago.edu/archive/2019/fall/30121-1/&#34;&gt;Computer Science with Applications 1&lt;/a&gt; (University of Chicago - 2019/Fall)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://classes.cs.uchicago.edu/archive/2020/winter/30122-1/index.html&#34;&gt;Computer Science with Applications 2&lt;/a&gt;
-(University of Chicago - 2020/Winter)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/uchicago-courses/MACS-30301-F19&#34;&gt;Introduction to Bayesian Statistics&lt;/a&gt; (University of Chicago - Fall 2019)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;style&gt;
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #5499C7;
+  color: white;
+}
+&lt;/style&gt;
+&lt;table style=&#34;width:100%&#34; id=&#34;customers&#34;&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Year&lt;/th&gt;
+    &lt;th&gt;Couse&lt;/th&gt;
+    &lt;th&gt;University&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2023&lt;/td&gt;
+    &lt;td&gt;Causal Inference and Causal Analysis&lt;/td&gt;
+    &lt;td&gt;University of California, Riverside&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2023&lt;/td&gt;
+    &lt;td&gt;Survey of Quantitative Methods I&lt;/td&gt;
+    &lt;td&gt;University of California, Riverside&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2021-2022&lt;/td&gt;
+    &lt;td&gt;Survey of Quantitative Methods II&lt;/td&gt;
+    &lt;td&gt;University of California, Riverside&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2020&lt;/td&gt;
+    &lt;td&gt;Political Behavior and Computational Social Science&lt;/td&gt;
+    &lt;td&gt;University of Chicago&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2020&lt;/td&gt;
+    &lt;td&gt;Machine Learning for Political Analysis&lt;/td&gt;
+    &lt;td&gt;University of Chicago&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2019&lt;/td&gt;
+    &lt;td&gt;Introduction to Bayesian Statistics&lt;/td&gt;
+    &lt;td&gt;University of Chicago&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 &lt;h3 id=&#34;undergraduate&#34;&gt;Undergraduate&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Theory and Methodology of Political Science (University of California, Riverside - 2020/Fall)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;table style=&#34;width:100%&#34; id=&#34;customers&#34;&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Year&lt;/th&gt;
+    &lt;th&gt;Couse&lt;/th&gt;
+    &lt;th&gt;University&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2022-2023&lt;/td&gt;
+    &lt;td&gt;Comparative Political Behavior&lt;/td&gt;
+    &lt;td&gt;University of California, Riverside&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;2020-2022&lt;/td&gt;
+    &lt;td&gt;Theory and Methodology of Political Science&lt;/td&gt;
+    &lt;td&gt;University of California, Riverside&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
 &lt;!---
 Comments:
 To includ links to open in a new tab:
