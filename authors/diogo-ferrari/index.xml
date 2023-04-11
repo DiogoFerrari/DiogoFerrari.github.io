@@ -6,10 +6,37 @@
     <description>Recent content on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/authors/diogo-ferrari/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Political Economy and Political Psychology of Public Support for Right-Wing Populism in Comparative Perspective</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2023-political/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2023-political/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What do Brazilians Think about the Federation? Centralization and Trust after 2013</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2023-what/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2023-what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hdpGLM: An R package to Estimate Heterogeneous Effects in Generalized Linear Models using Hierarchical Dirichlet Process</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2023-hdpglmr/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2023-hdpglmr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Effect of Party Identification and Party Cues on Populist Attitudes</title>
@@ -17,15 +44,6 @@
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2022-effect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What do Brazilians Think about the Federation? Centralization and Trust after 2013 (in pt)</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2023-what/</link>
-      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2023-what/</guid>
       <description></description>
     </item>
     

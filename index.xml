@@ -6,7 +6,7 @@
     <description>Recent content on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Publications</title>
       <link>https://DiogoFerrari.github.io/publication/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/publication/</guid>
       <description></description>
@@ -107,7 +107,7 @@ As part of this project, two nation-wide surveys and one survey experiment have 
 &lt;/table&gt;
 &lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://doi.org/10.1017/pan.2019.13&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;PDF&lt;/button&gt;
 &lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/hdpGLM&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://diogoferrari.github.io/hdpGLM&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Documentation&lt;/button&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://diogoferrari.github.io/hdpGLM&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Website&lt;/button&gt;
 &lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://www.diogoferrari.com/hdpGLM/articles/hdpGLM.html&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Vignette&lt;/button&gt;
 &lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://cran.r-project.org/package=hdpGLM&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;CRAN&lt;/button&gt;&lt;/p&gt;
 &lt;hr style=&#34;height:3px; background: darkblue&#34;&gt; &lt;! –– --------------------------------------------------------------------------- ––&gt;
@@ -128,7 +128,7 @@ As part of this project, two nation-wide surveys and one survey experiment have 
 &lt;/table&gt;
 &lt;!-- &lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://doi.org/10.1017/pan.2019.13&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;PDF&lt;/button&gt; --&gt;
 &lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/idar&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://diogoferrari.github.io/idar&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Documentation&lt;/button&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://diogoferrari.github.io/idar&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Website&lt;/button&gt;
 &lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://www.diogoferrari.com/idar/articles/idar.html&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Vignette&lt;/button&gt;&lt;/p&gt;
 &lt;!-- &lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://cran.r-project.org/package=idar&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;CRAN&lt;/button&gt; --&gt;
 &lt;hr style=&#34;height:3px; background: darkblue&#34;&gt; &lt;! –– --------------------------------------------------------------------------- ––&gt;
@@ -149,7 +149,7 @@ As part of this project, two nation-wide surveys and one survey experiment have 
 &lt;/table&gt;
 &lt;p&gt;&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;/files/ferrariYYYYceser.pdf&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px; border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;PDF&lt;/button&gt;
 &lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://github.com/DiogoFerrari/ceser&#39;, &#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;GitHub&lt;/button&gt;
-&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://diogoferrari.github.io/ceser&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Documentation&lt;/button&gt;
+&lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://diogoferrari.github.io/ceser&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Website&lt;/button&gt;
 &lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;http://www.diogoferrari.com/ceser/articles/ceser.html&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;Vignette&lt;/button&gt;
 &lt;button class=&#34;button&#34; onclick=&#34;window.open(&#39;https://cran.r-project.org/package=ceser&#39;, formtarget=&#39;_blank&#39;)&#34; style=&#34;font-size:15px;border-radius: 5px;background-repeat:no-repeat; background-color:Transparent;color:#1A5EDD;border:1px solid #668ED9&#34;&gt;CRAN&lt;/button&gt;&lt;/p&gt;
 &lt;hr style=&#34;height:3px; background: darkblue&#34;&gt; &lt;! –– --------------------------------------------------------------------------- ––&gt;
@@ -228,7 +228,10 @@ As part of this project, two nation-wide surveys and one survey experiment have 
   border: 1px solid #ddd;
   padding: 8px;
 }
-#customers tr:nth-child(even){background-color: #f2f2f2;}
+#customers tr:nth-child(even){
+background-color: #f2f2f2;
+color: black;
+}
 #customers tr:hover {background-color: #ddd;}
 
 #customers th {
