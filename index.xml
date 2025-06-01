@@ -6,7 +6,7 @@
     <description>Recent content on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Publications</title>
       <link>https://DiogoFerrari.github.io/publication/</link>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       
       <guid>https://DiogoFerrari.github.io/publication/</guid>
       <description></description>
@@ -57,7 +57,7 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://diogoferrari.com/causalinf/&#34;&gt; &lt;img src=&#34;https://DiogoFerrari.github.io/img/causalinf.png&#34; class=&#34;float-start&#34; align=&#34;left&#34;  width=&#34;400&#34; style=&#34;padding-right: 0px;&#34; alt=&#34;&#34;&gt; &lt;/a&gt; &lt;div class=&#34;software-description&#34; align=&#34;justify&#34;&gt; &lt;strong&gt;causalinf&lt;/strong&gt; is a Python module to facilitate causal inference by offering various submodules focused on different methodologies and identification strategies, including Difference-in-Differences (DiD), Regression Discontinuity Design (RDD), Instrumental Variables (IV), Mediation Analysis (MA), Matching Methods (MM), Selection on Observables (SoO), and Structural Causal Models (SCM). Each method encompasses essential functionalities such as (1) evaluating causal identification assumptions, (2) estimating causal effects, (3) generating summary result tables and plots, (4) performing sensitivity analyses, and (5) producing model diagnostics. &lt;/div&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://diogoferrari.com/causalinf/&#34;&gt; &lt;img src=&#34;https://DiogoFerrari.github.io/img/causalinf.png&#34; class=&#34;float-start&#34; align=&#34;left&#34;  width=&#34;400&#34; style=&#34;padding-left: 0px;&#34; alt=&#34;&#34;&gt; &lt;/a&gt; &lt;div class=&#34;software-description&#34; align=&#34;justify&#34;&gt; &lt;strong&gt;causalinf&lt;/strong&gt; is a Python module to facilitate causal inference by offering various submodules focused on different methodologies and identification strategies, including Difference-in-Differences (DiD), Regression Discontinuity Design (RDD), Instrumental Variables (IV), Mediation Analysis (MA), Matching Methods (MM), Selection on Observables (SoO), and Structural Causal Models (SCM). Each method encompasses essential functionalities such as (1) evaluating causal identification assumptions, (2) estimating causal effects, (3) generating summary result tables and plots, (4) performing sensitivity analyses, and (5) producing model diagnostics. &lt;/div&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
