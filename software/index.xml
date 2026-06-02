@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software on Diogo Ferrari</title>
-    <link>https://DiogoFerrari.github.io/software/</link>
+    <link>https://www.diogoferrari.com/software/</link>
     <description>Recent content in Software on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <managingEditor>diogoferrari@gmail.com (Diogo Ferrari)</managingEditor>
     <webMaster>diogoferrari@gmail.com (Diogo Ferrari)</webMaster>
     
-	    <atom:link href="https://DiogoFerrari.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://www.diogoferrari.com/software/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
