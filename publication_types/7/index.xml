@@ -6,7 +6,9 @@
     <description>Recent content in 7 on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jul 2019 03:08:17 +0000</lastBuildDate>
+    <managingEditor>diogoferrari@gmail.com (Diogo Ferrari)</managingEditor>
+    <webMaster>diogoferrari@gmail.com (Diogo Ferrari)</webMaster>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,27 +16,27 @@
     <item>
       <title>Adjusting for Poor-quality Survey Answers Using Nonresponses</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2019-adjusting/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-adjusting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Investigating Election Fraud using Finite Mixture Models and Semi-parametric Density Estimation</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2019-investigating/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-investigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</guid>
       <description></description>
     </item>
     
@@ -42,7 +44,7 @@
       <title>Political Economy of intra-party solidarity and interregional redistribution</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2017-political/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-political/</guid>
       <description></description>
     </item>

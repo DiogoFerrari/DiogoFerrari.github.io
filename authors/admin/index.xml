@@ -6,6 +6,8 @@
     <description>Recent content on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <managingEditor>diogoferrari@gmail.com (Diogo Ferrari)</managingEditor>
+    <webMaster>diogoferrari@gmail.com (Diogo Ferrari)</webMaster>
     
 	    <atom:link href="https://DiogoFerrari.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,15 +16,18 @@
       <title></title>
       <link>https://DiogoFerrari.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/authors/admin/</guid>
       <description>&lt;div align=&#34;justify&#34;&gt;
-I am an Assistant Professor in the Department of Political Science at the &lt;a href=&#34;https://politicalscience.ucr.edu/&#34; target=&#34;_blank&#34;&gt;University of California, Riverside&lt;/a&gt;.
-&lt;br&gt;
-&lt;br&gt;
-&lt;p&gt;My research focuses on &lt;b&gt;quantitative political methodology&lt;/b&gt; and &lt;b&gt;comparative political behavior&lt;/b&gt;. My interests lie at the intersection of political psychology and political economy. I study how &lt;b&gt;inequality, socioeconomic conditions, and political identity&lt;/b&gt;, shape &lt;b&gt;perceptions&lt;/b&gt; about the socioeconomic environment, opinion formation, preferences, and political behavior.&lt;/p&gt;
-&lt;p&gt;I use a variety of instruments for empirical analysis, including &lt;b&gt;surveys and survey experiments&lt;/b&gt;, to investigate how exposure to different types of information affect the formation of mass public policy attitudes and political choices.&lt;/p&gt;
-&lt;p&gt;My research in quantitative political methodology focuses on &lt;b&gt;causal inference&lt;/b&gt; and methods to deal with latent confounders. I also develop approaches to improve causal inference in survey experiments.&lt;/p&gt;
+&lt;!-- I am an Associate Professor in the Department of Political Science at the &lt;a href=&#34;https://politicalscience.ucr.edu/&#34; target=&#34;_blank&#34;&gt;University of California, Riverside&lt;/a&gt;. --&gt;
+&lt;!-- &lt;br&gt; --&gt;
+&lt;!-- &lt;br&gt; --&gt;
+&lt;!-- My research focuses on &lt;b&gt;quantitative political methodology&lt;/b&gt; and &lt;b&gt;comparative political behavior&lt;/b&gt;. My interests lie at the intersection of political psychology and political economy. I study how &lt;b&gt;inequality, socioeconomic conditions, and political identity&lt;/b&gt;, shape &lt;b&gt;perceptions&lt;/b&gt; about the socioeconomic environment, opinion formation, preferences, and political behavior.  --&gt;
+&lt;!-- I use a variety of instruments for empirical analysis, including &lt;b&gt;surveys and survey experiments&lt;/b&gt;, to investigate how exposure to different types of information affect the formation of mass public policy attitudes and political choices.  --&gt;
+&lt;!-- My research in quantitative political methodology focuses on &lt;b&gt;causal inference&lt;/b&gt; and methods to deal with latent confounders. I also develop approaches to improve causal inference in survey experiments. --&gt;
+&lt;p&gt;I am an Associate Professor in the Department of Political Science at the &lt;a href=&#34;#ZgotmplZ&#34; target=&#34;_blank&#34;&gt;University of California, Riverside&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My research lies at the intersection of political psychology, public opinion, political behavior, and quantitative political methodology. I study how citizens form political attitudes, ideological preferences, and electoral choices, with particular attention to the psychological and perceptual foundations of mass opinion. A central theme of my work is how political contexts shape people’s perceptions of social inequality, socioeconomic conditions, and social and political groups, as well as how these perceptions influence subsequent political judgments and behavior.&lt;/p&gt;
+&lt;p&gt;I also work in quantitative political methodology. My methodological research focuses primarily on Bayesian inference and on approaches for addressing latent confounding in causal inference.&lt;/p&gt;
 &lt;/div&gt;
 </description>
     </item>

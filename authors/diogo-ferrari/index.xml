@@ -6,44 +6,46 @@
     <description>Recent content on Diogo Ferrari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jul 2022 03:08:17 +0000</lastBuildDate>
+    <managingEditor>diogoferrari@gmail.com (Diogo Ferrari)</managingEditor>
+    <webMaster>diogoferrari@gmail.com (Diogo Ferrari)</webMaster>
+    <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://DiogoFerrari.github.io/authors/diogo-ferrari/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Preference for Redistribution by Police Area</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2022-preferences/</link>
-      <pubDate>Sun, 10 Jul 2022 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2022-preferences/</guid>
+      <title>Does Informing Partisans About Partisan Bias Reduce Partisan Bias?</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2025-does/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2025-does/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Developments in Positive Empirical Models of Election Frauds</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</link>
-      <pubDate>Wed, 04 Dec 2019 23:17:51 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</guid>
+      <title>Status Threat, Partisanship, and Voters&#39; Conservative Shift Toward Right-Wing Candidates</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2025-status/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2025-status/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preference for Redistribution by Police Area</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2022-preferences/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2022-preferences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adjusting for Poor-quality Survey Answers Using Nonresponses</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2019-adjusting/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-adjusting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</link>
-      <pubDate>Wed, 10 Jul 2019 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</guid>
       <description></description>
     </item>
     
@@ -51,7 +53,7 @@
       <title>Essays on the Micro-Foundations of Welfare Attitudes and Polarization of Policy Preferences</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2019-essays/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-essays/</guid>
       <description></description>
     </item>
@@ -60,8 +62,17 @@
       <title>Developments in Positive Empirical Models of Election Frauds: Dimensions and Decisions</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2018-dimensions/</link>
       <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-dimensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments in Positive Empirical Models of Election Frauds</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</guid>
       <description></description>
     </item>
     
@@ -69,8 +80,17 @@
       <title>Developments in Positive Empirical Models of Election Frauds</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2019-developments/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2019-developments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification Analysis and Multimodality of Posterior Distribution in Bayesian Models</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</guid>
       <description></description>
     </item>
     
@@ -78,17 +98,8 @@
       <title>Replication Data for: Modeling Context-Dependent Latent Effect Heterogeneity</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2018-replicationmodeling/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2018-replicationmodeling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Developments in Positive Empirical Models of Election Frauds</title>
-      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-developments/</link>
-      <pubDate>Mon, 10 Jul 2017 03:08:17 +0000</pubDate>
-      
-      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-developments/</guid>
       <description></description>
     </item>
     
@@ -96,7 +107,7 @@
       <title>A Semi-parametric Approch to Estimate Latent Heterogeneity with Generalized Linear Mixed Models</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2017-semi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-semi/</guid>
       <description></description>
     </item>
@@ -105,8 +116,17 @@
       <title>Allocation of Authority and Preferences for Redistribution</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2017-allocation/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-allocation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developments in Positive Empirical Models of Election Frauds</title>
+      <link>https://DiogoFerrari.github.io/publication/ferrari-2017-developments/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
+      <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-developments/</guid>
       <description></description>
     </item>
     
@@ -114,7 +134,7 @@
       <title>Distribution of Income, Redistributive Preferences, and Preferences for Political Institutions</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2017-distribution/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-distribution/</guid>
       <description></description>
     </item>
@@ -123,7 +143,7 @@
       <title>Political Economy of intra-party solidarity and interregional redistribution</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2017-political/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-political/</guid>
       <description></description>
     </item>
@@ -132,7 +152,7 @@
       <title>The Mediation Effect of Preferences for Redistribution on Preferences for Centralization of Political Authority by Policy Area</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2017-centralization/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2017-centralization/</guid>
       <description></description>
     </item>
@@ -141,7 +161,7 @@
       <title>A Logistic-Binomial Mixture Model for Fraud Detection in Elections</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2016-binomial/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-binomial/</guid>
       <description></description>
     </item>
@@ -150,7 +170,7 @@
       <title>Developments in Positive Empirical Models of Election Frauds</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2016-developments/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-developments/</guid>
       <description></description>
     </item>
@@ -159,7 +179,7 @@
       <title>Political Economy of Intraparty Negotiation and Interregional Redistribution</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2016-intraparty/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-intraparty/</guid>
       <description></description>
     </item>
@@ -168,7 +188,7 @@
       <title>Positive Empirical Models of Election Frauds</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2016-positive/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-positive/</guid>
       <description></description>
     </item>
@@ -177,7 +197,7 @@
       <title>The Conditional Direct and Unconditional Indirect Effect of Income on Preferences for Centralization of Authority</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2016-centralization/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2016-centralization/</guid>
       <description></description>
     </item>
@@ -186,7 +206,7 @@
       <title>Effect of Intraparty Negotiation on Interregional Redistribution</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2015-effect/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2015-effect/</guid>
       <description></description>
     </item>
@@ -195,7 +215,7 @@
       <title>The Territorial Division of Power: A Survey on Brazil</title>
       <link>https://DiogoFerrari.github.io/publication/ferrari-2014-territorial/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
+      <author>diogoferrari@gmail.com (Diogo Ferrari)</author>
       <guid>https://DiogoFerrari.github.io/publication/ferrari-2014-territorial/</guid>
       <description></description>
     </item>

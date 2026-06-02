@@ -1,30 +1,34 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://DiogoFerrari.github.io/publication_types/1/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/authors/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DiogoFerrari.github.io/authors/diogo-ferrari/</loc>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2025-does/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://DiogoFerrari.github.io/authors/ferrari-d./</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication_types/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/</loc>
-    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DiogoFerrari.github.io/authors/brianna-a.-smith/</loc>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2025-status/</loc>
-    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/authors/esterling-k./</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
@@ -43,6 +47,9 @@
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2024-post/</loc>
     <lastmod>2024-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DiogoFerrari.github.io/authors/ferrari-d./</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2024-effect/</loc>
     <lastmod>2024-05-01T00:00:00+00:00</lastmod>
@@ -74,23 +81,20 @@
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2023-hdpglmr/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DiogoFerrari.github.io/publication_types/6/</loc>
-    <lastmod>2022-12-12T02:30:08+00:00</lastmod>
-  </url><url>
-    <loc>https://DiogoFerrari.github.io/publication/ferrari-2022-cognition/</loc>
-    <lastmod>2022-12-12T02:30:08+00:00</lastmod>
-  </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2022-effect/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DiogoFerrari.github.io/publication/ferrari-2022-measuring/</loc>
-    <lastmod>2022-07-20T03:08:17+00:00</lastmod>
+    <loc>https://DiogoFerrari.github.io/publication_types/6/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DiogoFerrari.github.io/authors/diogo-ferrari/</loc>
-    <lastmod>2022-07-10T03:08:17+00:00</lastmod>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2022-measuring/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2022-preferences/</loc>
-    <lastmod>2022-07-10T03:08:17+00:00</lastmod>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2022-cognition/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2021-education/</loc>
     <lastmod>2021-12-01T00:00:00+00:00</lastmod>
@@ -110,34 +114,25 @@
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2020-modeling/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DiogoFerrari.github.io/publication_types/8/</loc>
-    <lastmod>2019-12-04T23:17:51+00:00</lastmod>
-  </url><url>
-    <loc>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</loc>
-    <lastmod>2019-12-04T23:17:51+00:00</lastmod>
-  </url><url>
-    <loc>https://DiogoFerrari.github.io/authors/walter-r.-mebane-jr./</loc>
-    <lastmod>2019-12-04T23:17:51+00:00</lastmod>
+    <loc>https://DiogoFerrari.github.io/publication_types/5/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication_types/7/</loc>
-    <lastmod>2019-07-10T03:08:17+00:00</lastmod>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2019-adjusting/</loc>
-    <lastmod>2019-07-10T03:08:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</loc>
-    <lastmod>2019-07-10T03:08:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DiogoFerrari.github.io/publication/ferrari-2019-investigating/</loc>
-    <lastmod>2019-07-10T03:08:17+00:00</lastmod>
-  </url><url>
-    <loc>https://DiogoFerrari.github.io/publication_types/5/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2019-essays/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2019-investigating/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://DiogoFerrari.github.io/authors/walter-mebane/</loc>
+    <lastmod>2018-07-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DiogoFerrari.github.io/publication_types/8/</loc>
     <lastmod>2018-07-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2018-dimensions/</loc>
@@ -149,19 +144,28 @@
     <loc>https://DiogoFerrari.github.io/publication_types/0/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2018-developments/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2019-developments/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2018-identification/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2018-replicationmodeling/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://DiogoFerrari.github.io/publication/ferrari-2017-developments/</loc>
-    <lastmod>2017-07-10T03:08:17+00:00</lastmod>
+    <loc>https://DiogoFerrari.github.io/authors/walter-r.-mebane-jr./</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2017-semi/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2017-allocation/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://DiogoFerrari.github.io/publication/ferrari-2017-developments/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://DiogoFerrari.github.io/publication/ferrari-2017-distribution/</loc>
